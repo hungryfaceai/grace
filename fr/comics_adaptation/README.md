@@ -1,6 +1,7 @@
 # Plan de production BD adulte (31 chapitres x 8 pages)
 - Dossier style global: `STYLE_GUIDE.md`
 - Chaque fichier chapitre contient un storyboard 8 pages prêt pour génération illustrée.
+- Génération images chapitre 01: exécuter `python fr/comics_adaptation/generate_chapter01_images.py` (sortie SVG texte dans `images/chapter_01/`, compatible PR).
 
 - Chapitre 01: `chapter_01.md`
 - Chapitre 02: `chapter_02.md`

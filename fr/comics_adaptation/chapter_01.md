@@ -114,3 +114,13 @@
   - Narration: "Il avala le reste de sa flûte. Le liquide lui parut tiède. Il posa le verre. Puis il fit demi-tour, récupéra son manteau, remercia machinalement et so"
   - Dialogue court: "Faisons simple. On avance." (adapter au contexte exact)
 - **Prompt image IA**: `adult graphic novel, cinematic realism, winter stockholm palette, consistent character model sheet, french contemporary setting, page 8, chapter 1, emotional subtlety, detailed textures, controlled lighting, non-caricatural anatomy`
+
+## Rendus générés (images SVG)
+- `images/chapter_01/page_01.svg`
+- `images/chapter_01/page_02.svg`
+- `images/chapter_01/page_03.svg`
+- `images/chapter_01/page_04.svg`
+- `images/chapter_01/page_05.svg`
+- `images/chapter_01/page_06.svg`
+- `images/chapter_01/page_07.svg`
+- `images/chapter_01/page_08.svg`
