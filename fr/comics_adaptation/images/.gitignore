@@ -1,0 +1,2 @@
+# Keep vector previews in git; avoid binary previews that break PR tooling
+chapter_01/*.png

@@ -1,0 +1,58 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1200' height='1800' viewBox='0 0 1200 1800'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='0' y2='1'>
+      <stop offset='0%' stop-color='#2d1328'/>
+      <stop offset='100%' stop-color='#12091d'/>
+    </linearGradient>
+    <style>
+      .panel { fill: rgba(10,10,16,0.45); stroke: #e0e0e0; stroke-width: 3; }
+      .caption { font-family: Inter, Arial, sans-serif; fill: #f2f2f2; }
+      .small { font-size: 28px; }
+      .tiny { font-size: 22px; opacity: 0.95; }
+      .jacques-coat { fill: #1c232d; }
+      .jacques-skin { fill: #e7d1bb; }
+      .accent { fill: #9cc3ff; opacity: 0.8; }
+    </style>
+  </defs>
+
+  <rect x='0' y='0' width='1200' height='1800' fill='url(#bg)'/>
+
+  <g transform='translate(40,40)'>
+    <rect class='panel' x='0' y='0' width='1120' height='1720' rx='8'/>
+    <rect class='panel' x='20' y='20' width='520' height='540'/>
+    <rect class='panel' x='580' y='20' width='520' height='540'/>
+    <rect class='panel' x='20' y='590' width='520' height='540'/>
+    <rect class='panel' x='580' y='590' width='520' height='540'/>
+    <rect class='panel' x='20' y='1160' width='520' height='540'/>
+    <rect class='panel' x='580' y='1160' width='520' height='540'/>
+  </g>
+
+  <g>
+    <circle class='jacques-skin' cx='210' cy='250' r='26'/>
+    <rect class='jacques-coat' x='178' y='278' width='64' height='140' rx='8'/>
+
+    <circle class='jacques-skin' cx='770' cy='250' r='26'/>
+    <rect class='jacques-coat' x='738' y='278' width='64' height='140' rx='8'/>
+
+    <circle class='jacques-skin' cx='210' cy='820' r='26'/>
+    <rect class='jacques-coat' x='178' y='848' width='64' height='140' rx='8'/>
+
+    <circle class='jacques-skin' cx='770' cy='820' r='26'/>
+    <rect class='jacques-coat' x='738' y='848' width='64' height='140' rx='8'/>
+
+    <circle class='jacques-skin' cx='210' cy='1390' r='26'/>
+    <rect class='jacques-coat' x='178' y='1418' width='64' height='140' rx='8'/>
+
+    <circle class='jacques-skin' cx='770' cy='1390' r='26'/>
+    <rect class='jacques-coat' x='738' y='1418' width='64' height='140' rx='8'/>
+
+    <rect class='accent' x='548' y='164' width='104' height='68' rx='10'/>
+  </g>
+
+  <text class='caption small' x='60' y='70'>Chapitre 01 — Page 04</text>
+  <foreignObject x='60' y='1710' width='1080' height='70'>
+    <div xmlns='http://www.w3.org/1999/xhtml' style='color:#f2f2f2;font: 22px Inter, Arial, sans-serif;'>
+      Découverte du couple au centre de la pièce.
+    </div>
+  </foreignObject>
+</svg>
