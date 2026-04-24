@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Chapitre 01 — Galerie SVG</title>
+  <style>
+    body { font-family: Inter, Arial, sans-serif; margin: 0; background:#0f1117; color:#f2f2f2; }
+    header { padding: 20px 24px; position: sticky; top: 0; background:#141826; border-bottom:1px solid #2a2f40; }
+    main { padding: 20px 24px 40px; display:grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 20px; }
+    figure { margin:0; background:#171b2a; border:1px solid #2a3146; border-radius:10px; padding:12px; }
+    img { width:100%; height:auto; border-radius:6px; background:#0b0d13; display:block; }
+    figcaption { margin-top:8px; font-size:14px; opacity:0.9; }
+    code { background:#0b0d13; padding:2px 6px; border-radius:6px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Chapitre 01 — Prévisualisation SVG</h1>
+    <p>Ouvrir ce fichier directement, ou lancer <code>python -m http.server 8000</code> depuis la racine puis visiter <code>/fr/comics_adaptation/images/chapter_01/</code>.</p>
+  </header>
+  <main>
+    <figure><img src="page_01.svg" alt="Page 01" /><figcaption>Page 01</figcaption></figure>
+    <figure><img src="page_02.svg" alt="Page 02" /><figcaption>Page 02</figcaption></figure>
+    <figure><img src="page_03.svg" alt="Page 03" /><figcaption>Page 03</figcaption></figure>
+    <figure><img src="page_04.svg" alt="Page 04" /><figcaption>Page 04</figcaption></figure>
+    <figure><img src="page_05.svg" alt="Page 05" /><figcaption>Page 05</figcaption></figure>
+    <figure><img src="page_06.svg" alt="Page 06" /><figcaption>Page 06</figcaption></figure>
+    <figure><img src="page_07.svg" alt="Page 07" /><figcaption>Page 07</figcaption></figure>
+    <figure><img src="page_08.svg" alt="Page 08" /><figcaption>Page 08</figcaption></figure>
+  </main>
+</body>
+</html>

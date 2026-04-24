@@ -1,0 +1,37 @@
+# Plan de production BD adulte (31 chapitres x 8 pages)
+- Dossier style global: `STYLE_GUIDE.md`
+- Chaque fichier chapitre contient un storyboard 8 pages prêt pour génération illustrée.
+- Génération images chapitre 01: exécuter `python fr/comics_adaptation/generate_chapter01_images.py` (sortie SVG texte dans `images/chapter_01/`, compatible PR).
+- Visualisation rapide: ouvrir `fr/comics_adaptation/images/chapter_01/index.html` dans un navigateur.
+
+- Chapitre 01: `chapter_01.md`
+- Chapitre 02: `chapter_02.md`
+- Chapitre 03: `chapter_03.md`
+- Chapitre 04: `chapter_04.md`
+- Chapitre 05: `chapter_05.md`
+- Chapitre 06: `chapter_06.md`
+- Chapitre 07: `chapter_07.md`
+- Chapitre 08: `chapter_08.md`
+- Chapitre 09: `chapter_09.md`
+- Chapitre 10: `chapter_10.md`
+- Chapitre 11: `chapter_11.md`
+- Chapitre 12: `chapter_12.md`
+- Chapitre 13: `chapter_13.md`
+- Chapitre 14: `chapter_14.md`
+- Chapitre 15: `chapter_15.md`
+- Chapitre 16: `chapter_16.md`
+- Chapitre 17: `chapter_17.md`
+- Chapitre 18: `chapter_18.md`
+- Chapitre 19: `chapter_19.md`
+- Chapitre 20: `chapter_20.md`
+- Chapitre 21: `chapter_21.md`
+- Chapitre 22: `chapter_22.md`
+- Chapitre 23: `chapter_23.md`
+- Chapitre 24: `chapter_24.md`
+- Chapitre 25: `chapter_25.md`
+- Chapitre 26: `chapter_26.md`
+- Chapitre 27: `chapter_27.md`
+- Chapitre 28: `chapter_28.md`
+- Chapitre 29: `chapter_29.md`
+- Chapitre 30: `chapter_30.md`
+- Chapitre 31: `chapter_31.md`
