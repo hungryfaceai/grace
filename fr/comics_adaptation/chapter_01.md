@@ -124,3 +124,5 @@
 - `images/chapter_01/page_06.svg`
 - `images/chapter_01/page_07.svg`
 - `images/chapter_01/page_08.svg`
+
+- `images/chapter_01/index.html` (galerie)
