@@ -1,0 +1,133 @@
+
+33.	Naptio
+
+Le soir même, Jacques ne parvint pas à s’endormir.
+Il resta longtemps allongé à côté de Lyubov, les yeux ouverts dans l’obscurité, attentif aux bruits de l’appartement. Par moments, le réfrigérateur reprenait son souffle. Une voiture passait dans la rue, puis le silence revenait, plus épais. 
+Il se leva avant l’aube et se prépara du café, ainsi qu’il le faisait toujours au réveil.
+Dans le salon, le sac en papier était encore posé près de l’entrée. Il en sortit le cadre de l’échographie, le carnet, les stylos et le vieux livre. Puis il alluma son ordinateur personnel.
+Il lui restait la capacité de se mettre à l’ouvrage. Depuis des années, il avait travaillé sur les systèmes des autres, dans des architectures où chaque décision appartenait à une hiérarchie. Ce matin-là, pour la première fois depuis longtemps, aucune réunion ne l’attendait. 
+Lyubov apparut dans l’encadrement de la porte, enveloppée dans un gilet gris. Ses cheveux étaient défaits. Elle regarda l’écran, puis le carnet ouvert, puis le visage de Jacques.
+« Tu n’as pas dormi ? »
+« Un peu. J’ai commencé quelque chose. »
+« Tu travailles déjà ? »
+Jacques leva les yeux.
+« Un peu. »
+Elle regarda l’écran.
+« Sur quoi ? »
+Il hésita. L’idée n’était encore qu’une forme confuse.
+« Une application. »
+Lyubov sourit faiblement.
+« Bien sûr. On te met dehors le mardi, tu crées une application le mercredi. »
+Elle s’assit en face de lui.
+« Une application pour quoi ? »
+« Pour les parents. Je voudrais concevoir un outil qui essaierait de comprendre ce qu’un bébé exprime. Elena, ton amie, disait l’autre jour qu’au début elle ne savait pas toujours pourquoi son bébé pleurait. Puis, au fil des mois, elle a fini par mieux le comprendre. Je me dis que si une mère peut apprendre à comprendre son nouveau-né à force de présence et de soins, une application devrait au moins pouvoir aider. Tu penses que le projet est fou ? »
+Lyubov le regarda sans répondre, incrédule.
+Il poursuivit, un peu plus vite.
+« Les nourrissons produisent des signaux : des pleurs, des mouvements, des expressions, des rythmes. Les parents apprennent à les lire, mais au début tout est brouillé. Il est parfois difficile de distinguer si le nourrisson a faim, s’il a sommeil, s’il a mal, s’il doit roter ou s’il faut le changer. Ce sont des états différents, et pourtant, pour un parent épuisé à trois heures du matin, tout peut ressembler au même cri. »
+« Tu veux qu’une application dise à une mère ce que son enfant ressent ? »
+« Non. Je veux qu’elle propose une hypothèse. Qu’elle dise : peut-être. »
+« Et tu ferais ça avec quoi ? » demanda-t-elle enfin.
+Jacques rapprocha l’ordinateur.
+« Avec des réseaux de neurones. »
+Lyubov se raidit légèrement.
+Plus tard dans la matinée, il installa des bibliothèques, chercha les dernières versions de TensorFlow et relut des articles de recherche sur la classification audio embarquée. Il voulait que le modèle tournât sur son iPhone. Il découperait les sons en fenêtres courtes, extrairait des spectrogrammes, entraînerait un petit réseau à reconnaître des formes.
+Les pleurs n’étaient pas des phrases, et pourtant c’était la seule langue que connaissent les êtres humains lorsqu’ils entrent dans le monde. Ce n’étaient pas non plus des bruits informes. Ils avaient une attaque, une durée, un tremblement, une fréquence dominante, des silences au milieu. Il y avait des cris qui montaient d’un coup, d’autres qui se brisaient, d’autres encore qui revenaient par vagues, épuisants, insistants, impossibles à ignorer.
+Lyubov revint vers lui avec une tasse de thé.
+Jacques reprit :
+« Pour l’image, le problème est plus compliqué. Les bébés transmettent aussi des signaux quand ils commencent à avoir faim ou sommeil. Ils ouvrent la bouche, tournent la tête, se frottent les yeux, crispent le visage. Mais ces signes sont difficiles à exploiter. »
+Elle le regarda plus attentivement.
+« Alors ? »
+« On ne garde pas l’image. On extrait seulement des repères. »
+Il chercha un exemple assez simple.
+« Il existe des solutions qui permettent de repérer des points sur un visage ou un corps. Les coins des yeux, la bouche, le menton, l’inclinaison de la tête, certains mouvements des mains. L’application transforme l’image en constellation de points. Ensuite elle oublie l’image. »
+Lyubov se pencha vers l’écran.
+« Une constellation ? »
+« Oui. Une bouche qui s’ouvre, des paupières qui se ferment, un visage qui se crispe, une tête qui cherche le sein ou le biberon, des jambes qui s’agitent. Tout cela devient des positions, des distances, des variations d’une seconde à l’autre. »
+Il dessinait avec ses doigts sur la table.
+« À partir de ces repères, je peux entraîner un petit réseau de neurones convolutionnel. Il ne reconnaît pas l’enfant. Il ne sait même pas qui il regarde. Il parcourt seulement des cartes de points et cherche des régularités. Certaines combinaisons précèdent souvent le sommeil. D’autres reviennent avant la faim. D’autres correspondent à l’inconfort ou à la douleur. »
+« Tu parles déjà de lui comme d’une donnée. »
+La phrase tomba doucement, mais elle l’atteignit. Jacques se referma.
+« Je parle de la méthode. Pas de notre fils. »
+Il avait passé des années à distinguer la carte et le territoire, le modèle et le réel, l’outil et la décision. Cette séparation, si nette dans les réunions, devenait plus fragile dès qu’elle touchait un corps aimé.
+Lyubov se leva pour poser sa tasse dans l’évier. 
+« Je ne veux pas remplacer l’instinct », dit-il.
+Elle resta debout, dos à lui.
+Les jours suivants, Jacques se mit au travail avec une discipline militaire. Il sortait à peine. L’appartement devint son laboratoire. Il n’avait pas d’équipe et pas de budget. Il entra son numéro de carte bancaire pour louer des centaines d’heures de calcul. Il disposait de son expérience, de bibliothèques open source, de bases de données publiques et de quelques forums spécialisés.
+Il installa ses téléphones sur la table du salon. Il testa les connexions, les pertes de signal et s’acharna à réduire les latences. Sur l’un, l’image apparaissait avec une seconde de retard. Sur l’autre, le son grésillait. Il corrigea. Il recommença. Il écrivit une première interface.
+Puis il entra dans la partie la plus difficile.
+Il lui fallait des sons.
+Il trouva d’abord des banques publiques et quelques enregistrements universitaires. Il écoutait au casque, tard le soir, pendant que Lyubov lisait sur le canapé. Des bébés inconnus pleuraient dans ses oreilles. Certains cris étaient si aigus qu’il retirait le casque. D’autres avaient une détresse monotone. Il y avait quelque chose d’effrayant à écouter tous ces bébés sans les voir.
+Il créa des dossiers.
+hungry.
+pain.
+tired.
+burp.
+diaper.
+unknown.
+Sur son écran, les pleurs d’enfants devenaient des bandes colorées, des paysages étroits où la fréquence montait, descendait, se brisait. Il écoutait quelques secondes, annotait, comparait. Certains cris semblaient avoir une direction. D’autres restaient opaques, protestation sans objet certain. Il apprit vite à se méfier. La faim pouvait ressembler à la fatigue. La douleur pouvait imiter la colère. Un nourrisson ne parlait pas encore, mais son corps possédait déjà mille manières de refuser le monde.
+Il construisit une première chaîne de traitement.
+Le téléphone enregistrerait quelques secondes, transformerait le son en spectrogramme, réduirait le bruit de fond, puis ferait tourner localement un modèle TensorFlow Lite. Il tenait à ce dernier point. Les données ne devaient pas partir vers un serveur. Les cris d’un enfant n’avaient pas à voyager dans des centres de calcul inconnus pour revenir sous forme de notification.
+Pour l’image, il avança plus lentement. Il testa des modèles de détection, regarda sur l’écran des visages anonymes se couvrir de points. Les repères tremblaient parfois, disparaissaient dans une ombre, se trompaient lorsqu’une main passait devant une bouche. Jacques aimait cette imperfection. Elle rappelait que la machine ne voyait pas. Elle calculait des probabilités de présence. Elle posait des coordonnées sur ce qu’elle croyait avoir trouvé.
+Le soir, Lyubov lisait parfois par-dessus son épaule.
+« Tu as écrit quoi ? »
+« Rien d’important. »
+Elle se pencha.
+« Prenez votre enfant dans les bras. »
+Il eut un air gêné.
+« C’est trop sentimental ? »
+« Non. »
+Elle s’assit près de lui.
+« C’est la première chose intelligente que ton application ait dite. »
+Il songea d’abord à l’appeler Whispering Angel. Une rapide recherche lui rappela qu’il s’agissait d’une marque de rosé produite par Château d’Esclans. Il sourit devant son écran. 
+Il chercha un mot plus doux. Il pensa aux heures que les jeunes parents racontaient avec un épuisement héroïque.
+Il opta pour Naptio.
+À mesure que Naptio prenait forme, Jacques se rendit compte que le projet le soignait. Le matin, il se levait avec un but. Il faisait le café, vérifiait les résultats d’entraînement lancés dans la nuit sur les data centers d’Islande, comparait des matrices de confusion, réduisait le modèle pour qu’il pût tourner sur un appareil ordinaire. Il pouvait bâtir quelque chose de petit, de précis, d’utile peut-être.
+Lyubov suivait ses progrès avec détachement. Parfois, elle s’amusait de son sérieux ou le suppliait de venir dîner. Elle lui demandait en riant si Naptio saurait reconnaître un père anxieux ou une mère épuisée. Il répondait que cela viendrait dans la version deux.
+Un soir, elle rentra d’un rendez-vous à la City plus tard que prévu. Jacques était à son bureau.
+« Tu as mangé ? » demanda-t-elle.
+« Pas encore. »
+Elle ouvrit le réfrigérateur.
+« J’ai une version qui tourne », dit-il.
+« De Naptio ? »
+« Oui. Une démo. »
+Elle ne répondit pas tout de suite. Elle sortit des œufs, du beurre, un reste de salade. Il comprit qu’elle était fatiguée.
+« Je peux te montrer après. »
+Il sourit et lança l’application sur son téléphone.
+L’interface était sobre. Un cercle pâle indiquait l’écoute. Une petite icône de caméra pouvait être activée. Au-dessous, trois lignes seulement : sommeil probable, faim possible, inconfort possible.
+Lyubov lut en silence.
+« Pourquoi des pourcentages ? »
+« Parce que le modèle produit une probabilité. »
+Elle prit le téléphone. Son pouce se posa sur l’écran.
+« Remplace les chiffres par des mots. Faible, possible, probable. »
+Jacques la regarda avec tendresse.
+Il lui montra ensuite la partie visuelle. La caméra se tourna vers lui. Son visage apparut une seconde, puis l’image disparut derrière un schéma de points. Deux marques pour les yeux, une ligne pour la bouche, un contour simplifié. Il ouvrit la bouche, ferma les paupières, inclina la tête. Les repères bougèrent. Le modèle affichait : adulte détecté, analyse bébé non applicable.
+Lyubov rit.
+« Au moins, il sait que tu n’es pas un nourrisson. »
+Elle rit davantage, puis s’assit. Ce rire lui fit du bien.
+Jacques reprit :
+« Pour les bébés, je ne veux pas utiliser l’image brute. J’extrais les points, puis le réseau de neurones travaille sur ces repères. En gros, il voit une géométrie du mouvement. Pas le visage. »
+« Mais il faut des données. »
+« Oui. »
+« Beaucoup de données. »
+« Oui. »
+« Où vas-tu les obtenir ? »
+Jacques ferma l’application.
+« Dans les hôpitaux. Dans les services de maternité. Il faudrait un vrai protocole, des consentements et de l’anonymisation. Je pensais à St Thomas pour commencer. »
+Lyubov le fixa.
+« St Thomas ? »
+« Ils ont une maternité importante. Ils voient passer des familles différentes, des situations diverses. Si Naptio doit être utile, il ne peut pas apprendre seulement sur des vidéos parfaites trouvées en ligne. Il lui faut des données réelles, annotées avec des professionnels. »
+Elle se leva pour retourner aux œufs.
+« Tu entends ce que tu dis ? »
+« Oui. »
+« Tu veux aller voir un hôpital et leur dire : donnez-moi les pleurs de vos nouveau-nés. »
+Il se tut.
+Elle cassa deux œufs dans une poêle. Le beurre grésilla. L’odeur chaude remplit la cuisine. Jacques regarda ses épaules, la tension dans sa nuque.
+« Je veux le faire correctement », dit-il.
+« Non, Jacques. Tu dis que tu sais, mais tu ne sais pas encore. Les mères à l’hôpital seront fatiguées, inquiètes. Elles signeront peut-être parce qu’un médecin leur dira que c’est utile. Elles donneront quelque chose de très intime. Pas seulement des données. Les premiers cris. Les premiers gestes. La panique des premières nuits. »
+Ils mangèrent tard, à la table de la cuisine. L’appétit de Lyubov avait forci. Jacques finit par débarrasser.
+Plus tard, lorsqu’elle alla se coucher, Jacques resta seul dans le salon. Sur l’écran, Naptio attendait, minuscule et imparfait. Une application encore sans utilisateurs, sans données suffisantes, sans avenir certain. Il pensa à son fils, qui ne pleurait pas encore dans le monde, mais qui déjà transformait la forme de ses journées.
+Il aurait pu chercher un autre contrat. Il le ferait peut-être. Mais, pour l’instant, quelque chose d’autre l’avait saisi.
+Ce n’était pas seulement l’ambition. L’ambition, il l’aurait reconnue. Elle l’avait accompagné souvent. Ici, le mouvement venait d’ailleurs. Il naissait de la peur de ne pas savoir être père. Il voulait construire une machine qui reconnaîtrait son insuffisance. Une machine qui écouterait sans prétendre remplacer l’oreille. Une machine qui regarderait sans posséder l’image. Cette limite lui parut être un commencement.
+
+
+
