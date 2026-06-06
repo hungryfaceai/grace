@@ -404,7 +404,7 @@ Manuela secoua la tête.
 « L’évolution ne vise pas l’efficacité. Les humains sont sociaux. Les occasions de rapports sont fréquentes. Et surtout, le sexe sert aussi à l’attachement et à la stabilité. » 
 Elle s’arrêta et regarda l’eau. Jacques sourit : il n’était pas complètement certain que les occasions d’accouplement fussent toujours si fréquentes dans l’espèce humaine. 
 Il demanda, plus doucement :
-« Et la jouissance féminine, alors ? Si elle n’est pas requise, pourquoi elle existe ? »
+« Et la jouissance féminine, alors ? Si elle n’est pas requise, pourquoi existe-t-elle ? »
 Manuela haussa légèrement les épaules.
 « Il y a des hypothèses. Ça peut augmenter la motivation sexuelle. Ça peut renforcer l’attachement dans une espèce où les enfants dépendent longtemps des adultes. »
 Jacques resta silencieux. Il regarda des couples allongés dans l’herbe, les yeux mi-clos, le visage offert au soleil.
@@ -733,7 +733,7 @@ Il y eut aussitôt un silence, lourd d’effort. Jacques regarda ces deux hommes
 « On a un peu de temps avant le rendez-vous, dit Jean-Pierre. On pourrait prendre un café. »
 Joël haussa les épaules.
 « Un café, une bière, ce que vous voulez. »
-Ils traversèrent quelques rues jusqu’à une brasserie près du centre. La ville avait cette élégance fanée des anciennes villes d’eaux. On y sentait encore le décor d’une prospérité disparue. 
+Ils traversèrent quelques rues jusqu’à une brasserie près du centre. La ville avait cette élégance fanée des anciennes villes d’eau. On y sentait encore le décor d’une prospérité disparue. 
 Ils s’assirent en terrasse. Jean-Pierre commanda un café allongé. Jacques prit un espresso. Joël demanda un demi.
 Le silence s’installa aussitôt. C’était le silence de gens qui n’avaient rien à se dire et qu’une défunte obligeait à s’asseoir à la même table.
 Jean-Pierre remua son café sans boire.
@@ -1772,7 +1772,7 @@ Elle inclina la tête.
 Ils s’embrassèrent sur la joue. Il sentit l’odeur de sa peau, du shampoing, un reste de lessive sur son pull. Puis il ouvrit la porte et descendit l’escalier.
 Dehors, l’air était plus froid que la veille. Il rentra chez lui. Le soir, il sortit marcher. Il marcha longtemps et finit par se retrouver dans une rue plus basse, plus sale, où il allait jadis avec son ami Henri. Le club était toujours là avec sa façade noire, et ce croquis de femme enlacée à une barre métallique. Jacques s’arrêta. Il connaissait bien l’endroit.
 Il poussa la porte.
-À l’intérieur, rien n’avait changé. L’endroit n’était pas glauque du tout. Il ressemblait à un bar luxueux. Au fond se trouvait une estrade avec un DJ et deux poles.
+À l’intérieur, rien n’avait changé. L’endroit n’était pas glauque du tout. Il ressemblait à un bar luxueux. Au fond se trouvait une estrade avec un DJ et deux barres.
 Un écran diffusait des défilés de mode.
 Il s’assit au bar. Le barman leva les yeux.
 « Une bière ? »
@@ -2069,7 +2069,7 @@ Elle s’assit en face de lui et le remercia d’être venu, puis sortit de son 
 Jacques leva les yeux.
 « Et ? »
 Elle baissa un instant les siens vers son téléphone, fit défiler un échange, puis le reposa sur la table.
-« Il m’a dit qu’il ne donnait plus d’interview gratuite. Que s’il voulait m’accorder du temps, il fallait réserver un coaching. »
+« Il m’a dit qu’il ne donnait plus d’interview gratuite. Que, s’il acceptait de m’accorder du temps, il fallait réserver un coaching. »
 Jacques eut un léger mouvement de tête.
 « Un coaching ? »
 « Oui. Une séance d’accompagnement. Une heure en visio. Quatre-vingt-dix-sept euros et quarante centimes. »
@@ -2445,7 +2445,7 @@ Lyubov était allée à Moscou voir ses parents pendant une dizaine de jours. Le
 
 Lyubov désirait un enfant depuis plus longtemps que lui. Elle lui en avait parlé souvent, avec une gravité calme. Elle s’était beaucoup documentée, connaissait les chiffres, les délais, les probabilités de concevoir au début de la quarantaine. Ils avaient cessé toute contraception quelques mois plus tôt, au cours d’un voyage en Islande. Jacques n’aurait pas su dire à quel moment exact ses réticences étaient tombées. Peut-être la solitude de cette île, ses paysages dépeuplés et austères, avaient-ils fini par entamer les dernières résistances de Jacques. L’existence lui était apparue comme une continuation obstinée.
 Tous les restaurants étaient déjà fermés lorsque Jacques avait garé son Land Rover Defender devant le gîte reculé qu’ils avaient réservé aux alentours de Kalfafellsstadur. Ils avaient passé l’après-midi autour du glacier de Svinafellsjokull. La glace descendait entre les pentes sombres en larges plis figés, striée de cendre, bleue par endroits d’un bleu dense, telle une lumière enfermée sous la surface. 
-Ils étaient repartis trop tard pour dîner. Le soir, ils avaient mangé les sandwiches qu’il leur restait, puis ils avaient fait l’amour avec une ferveur jeune et imprudente, tels deux êtres qui, pour la première fois, consentiraient sans réserve à ce qui devait venir.
+Ils étaient repartis trop tard pour dîner. Le soir, ils avaient mangé les sandwichs qu’il leur restait, puis ils avaient fait l’amour avec une ferveur jeune et imprudente, tels deux êtres qui, pour la première fois, consentiraient sans réserve à ce qui devait venir.
 « Je n’avais pas prévu que je serais enceinte si rapidement », dit-elle.
 « Moi non plus. »
 Il l’écoutait.
@@ -3395,7 +3395,7 @@ Depuis la naissance de Thomas, il avait continué à développer Naptio.
 Au début, ce n’était qu’un outil domestique, une sorte de prolongement anxieux de sa paternité. Il l’avait conçu pour distinguer les pleurs, les fatigues, les inconforts, les débuts de colique, les réveils sans cause et les moments où il fallait seulement prendre l’enfant contre soi. Le système n’était jamais certain. Il proposait. Il corrigeait. Il apprenait de ses erreurs. Jacques l’avait amélioré par fragments, pendant les siestes, entre deux lessives, la nuit, lorsque Lyubov et l’enfant dormaient enfin dans la chambre. Par moments, lorsque Naptio signalait un bruit, il se rendait dans la chambre et il trouvait son fils recroquevillé contre les barreaux du lit. Il le dépliait avec une infinie précaution et lui caressait le front, juste au-dessus du nez. L’enfant émettait de petits grognements de plaisir, les mêmes que lorsqu’il avait trois mois et que Jacques lui massait doucement la glabelle.
 Il avait commencé par enregistrer des sons courts, comme un cri au réveil, un gémissement avant le biberon ou une plainte étouffée dans le siège auto. Les premiers mois, Naptio s’était souvent trompé. Il confondait la fatigue et la faim, l’inconfort et la douleur. Jacques corrigeait, ajoutait des données, ajustait les pondérations du modèle, déplaçait les seuils. Puis, peu à peu, les erreurs diminuèrent.
 Ce progrès le rassura d’abord.
-Il lui donnait l’impression de mieux répondre. Elle indiquait une probabilité. Elle lui permettait de ne pas entrer nu dans le désordre du bébé.
+Il lui donnait l’impression de mieux répondre. Naptio indiquait une probabilité. Il lui permettait de ne pas entrer nu dans le désordre du bébé.
 Puis l’usage avait débordé son intention première.
 Un soir, alors que Lyubov parlait au téléphone avec sa sœur, Naptio signala une tension inhabituelle dans sa voix. Jacques crut d’abord à une erreur. La conversation semblait calme. Les deux femmes parlaient russe à voix basse, dans le salon. Il ne comprenait que des lambeaux. Quelques prénoms, une date, une allusion à leur mère. Rien qui justifiât l’alerte apparue sur l’écran posé près de lui.
 Pourtant, le graphe indiquait une montée brève, une contraction émotionnelle dissimulée sous un ton maîtrisé. La voix de Lyubov n’avait pas changé pour Jacques. Elle restait douce, basse, égale. Mais le modèle avait relevé autre chose : un retard minime avant certaines réponses, une pression nouvelle sur les consonnes, une baisse de souffle à la fin de quelques phrases, une manière de reprendre le contrôle avant de prononcer le prénom de sa sœur.
