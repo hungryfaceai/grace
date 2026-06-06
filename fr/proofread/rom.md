@@ -402,7 +402,7 @@ Parfois, ils faisaient ensuite l’amour avec douceur. Elle s’endormait dans s
 Le souvenir se retira lentement. Jacques retrouva Manuela et la lumière claire. Ils marchèrent encore quelques pas. Puis il demanda : « Et pourquoi, chez l’humain, on n’a pas ce système ? Ce serait plus efficace. »
 Manuela secoua la tête.
 « L’évolution ne vise pas l’efficacité. Les humains sont sociaux. Les occasions de rapports sont fréquentes. Et surtout, le sexe sert aussi à l’attachement et à la stabilité. » 
-Elle s’arrêta et regarda l’eau. Jacques sourit : il n’était pas complètement certain que les occasions d’accouplement étaient toujours si fréquentes que ça dans l’espèce humaine. 
+Elle s’arrêta et regarda l’eau. Jacques sourit : il n’était pas complètement certain que les occasions d’accouplement fussent toujours si fréquentes dans l’espèce humaine. 
 Il demanda, plus doucement :
 « Et la jouissance féminine, alors ? Si elle n’est pas requise, pourquoi elle existe ? »
 Manuela haussa légèrement les épaules.
@@ -709,7 +709,7 @@ Il resta un moment immobile devant l’écran.
 La maison se trouvait dans une rue discrète de Vichy, derrière un petit portail. Dès que sa grand-mère leur avait ouvert, l’odeur l’avait frappé au visage. Il y régnait une odeur de chat, d’urine, de poussière, d’excréments, une odeur rance qui semblait avoir imprégné les murs eux-mêmes. Jacques avait essayé d’entrer, par politesse, mais il s’était arrêté presque aussitôt dans l’entrée. Son corps refusait. L’air lui manquait, littéralement.
 Des chats circulaient partout, minces, furtifs, silencieux. Il y en avait sur un fauteuil, sur une table, au pied d’un buffet, jusque sur le rebord de la fenêtre. Sa grand-mère leur parlait à voix basse. Avec eux, elle semblait plus douce qu’avec les hommes. 
 Jacques avait prétexté une chaleur étouffante, puis proposé d’aller déjeuner en ville.
-Ils s’étaient installés dans un restaurant du centre. Jacques avait commandé un lapin à la moutarde excellent. Il se rappelait le visage de sa grand-mère, plus vieux qu’il ne l’avait imaginé. En dépit de plusieurs opérations de la cataracte, elle ne voyait presque plus rien. Hors de sa maison, débarrassée de ses chats, elle lui était apparue d’une grande beauté malgré l’âge, avec ses longs cheveux blancs et son port encore noble. Jacques s’était laissé dire que, jeune mère, elle s’était enfuie un temps avec l’un de ses fils et un forain de passage. Son mari l’avait fait rechercher, puis battue à son retour. Le dernier, né peu après, demeura pour le père le « bâtard du forain ». Il n’en fut plus jamais question. 
+Ils s’étaient installés dans un restaurant du centre. Jacques avait commandé un excellent lapin à la moutarde. Il se rappelait le visage de sa grand-mère, plus vieux qu’il ne l’avait imaginé. En dépit de plusieurs opérations de la cataracte, elle ne voyait presque plus rien. Hors de sa maison, débarrassée de ses chats, elle lui était apparue d’une grande beauté malgré l’âge, avec ses longs cheveux blancs et son port encore noble. Jacques s’était laissé dire que, jeune mère, elle s’était enfuie un temps avec l’un de ses fils et un forain de passage. Son mari l’avait fait rechercher, puis battue à son retour. Le dernier, né peu après, demeura pour le père le « bâtard du forain ». Il n’en fut plus jamais question. 
 Elle parlait peu, mais sans acrimonie. Elle lui avait posé quelques questions sur Paris, sur son travail, sur sa vie. Ingrid s’était montrée attentive et délicate. 
 Le repas n’avait rien eu d’heureux. Pourtant, devant son écran, Jacques se rendit compte que ce déjeuner avait compté davantage qu’il ne l’avait cru à l’époque.
 Il regarda le calendrier sur son téléphone.
@@ -810,7 +810,7 @@ Il regarda autour de lui. Les dossiers reliés, les registres, les chemises épa
 Le notariat incarnait encore, en France, une certaine idée de la continuité. Le client y était de passage, dans une maison plus ancienne que lui. Jacques songea que si le notariat n’avait évidemment pas inventé Vichy, il avait bien fallu des hommes de loi pour mettre en forme la dépossession. 
 Maître Viapard l’accueillit avec une politesse minimale. Il eut l’impression de déranger, après quatre heures de voyage pour ce déplacement. Elle avait une cinquantaine d’années, portait des lunettes fines et un tailleur sombre. Sa manière de parler indiquait un profond détachement.
 « Monsieur, je vous présente mes condoléances. »
-Jacques hocha la tête.	
+Jacques hocha la tête.
 La notaire ouvrit un dossier.
 « Votre grand-mère n’a pas laissé de testament. La succession se règlera donc selon les règles ordinaires de dévolution. Votre mère étant décédée, vous venez en représentation. Vous serez donc héritier aux côtés de vos oncles. »
 Le terme de représentation le troubla. Il venait en représentation de sa mère. Toute sa place, au fond, semblait tenir là : représenter des absents. 
@@ -925,7 +925,7 @@ Il sortit son téléphone, ouvrit une note et la montra à Jacques. Le tableau a
 « Tu montes quoi ? »
 « Plusieurs trucs. Des sites, des formations en ligne et surtout des chaînes sur YouTube. Je crée du contenu numérique. Mes chaînes ont plusieurs dizaines de milliers de followers. Il suffit de capter l’attention puis de la monétiser. »
 Jacques lança :
-« Ah oui, tu es un influenceur, c’est ça ? Je n’ai jamais bien compris de quoi ils vivent les influenceurs. » 
+« Ah oui, tu es un influenceur, c’est ça ? Je n’ai jamais bien compris de quoi vivent les influenceurs. » 
 Il but une gorgée.
 « J’ai un coaching pour expliquer ça, Jacques ! »
 Il continua : 
@@ -1075,13 +1075,13 @@ Le vol dura une heure cinquante. Dès l’arrivée, tout ralentit. Le couloir de
 Jacques suivit Dewi jusqu’à une file qui semblait ne pas avancer. Il dut remplir un formulaire, payer, attendre qu’un agent vérifie son passeport, colle une étiquette et tamponne une page. La queue se déplaçait par secousses. Sur un écran suspendu, la même publicité pour une résidence de luxe repassait sans fin, montrant une piscine bleue, des tours blanches et des palmiers immobiles.
 Au bout d’une heure, Jacques commença à sentir la fatigue dans ses jambes. Au bout de deux heures, il regardait ses pieds, la tête penchée, hébété.
 Dewi lui prit le bras.
-« Sorry, » dit-elle.
+« Sorry », dit-elle.
 Lorsqu’ils sortirent enfin de Soekarno-Hatta, il était près de midi. Un chauffeur les attendait avec le nom de Dewi écrit sur son téléphone. Ils montèrent dans une voiture noire dont la climatisation, d’abord trop forte, leur glaça les bras. Dewi s’installa près de Jacques à l’arrière. Elle envoya un message à sa mère, puis resta silencieuse quelques minutes.
 Jakarta apparut par fragments. Ils quittèrent les échangeurs et les grands axes encombrés. Les panneaux publicitaires se raréfièrent. Ils longèrent des alignements de petites boutiques. Puis vinrent les files de scooters, les camions chargés et les vendeurs au bord de la chaussée. Ils s’enfoncèrent dans un quartier plus pauvre, traversé de ruelles cimentées, de fossés étroits et de câbles pendants. À mesure qu’ils avançaient, il ne restait plus qu’une succession de maisons basses. Le chauffeur klaxonnait par petites touches pour se frayer un chemin.
 La famille de Dewi vivait dans un kampung de Bekasi. 
 Elle baissa la vitre pendant quelques secondes. L’air entra, chaud, épais, mêlé d’une odeur d’essence, de poussière et de friture. 
 Le chauffeur finit par s’arrêter. La maison se trouvait au bout d’une ruelle si étroite que deux motos s’y croisaient à peine.
-« We’ll walk from here, » dit Dewi.
+« We’ll walk from here », dit Dewi.
 Des regards se tournèrent vers eux. Dewi salua des voisins. Une femme âgée sortit la tête d’une maison et lança quelques mots. Dewi répondit en riant. Jacques avançait derrière elle, attentif à ne pas poser le pied dans le fossé.
 La maison était basse, de plain-pied, serrée entre deux constructions voisines. Une moto était garée sous l’auvent de tôle. Du linge séchait sur un fil tendu contre le mur. La peinture de la façade avait pâli sous l’effet de la pluie et de la chaleur. 
 La mère de Dewi les attendait devant la porte.
@@ -1091,7 +1091,7 @@ Dewi traduisit.
 La mère protesta aussitôt, gênée que sa fille eût traduit. Dewi éclata de rire. Jacques remercia. Le père apparut derrière elles. C’était un homme maigre, au visage fermé, vêtu d’une chemise rentrée dans un pantalon sombre. Il serra la main de Jacques avec gravité. Sa paume était sèche, dure. Son regard s’arrêta un instant sur la montre de Jacques.
 À l’intérieur, la maison était plus fraîche. Un ventilateur oscillant poussait l’air tiède d’un mur à l’autre. La pièce d’entrée servait à la fois de salon, de salle à manger et de lieu de séjour. Un canapé brun longeait le mur. Une télévision reposait sur un meuble en contreplaqué. À côté, des photos de Dewi en uniforme avaient été encadrées. Sur l’une, elle se tenait devant un avion, maquillée, droite, parfaitement étrangère à cette pièce.
 Jacques remarqua la photo. Le père suivit son regard. Il dit quelque chose à Dewi.
-« He says I work hard, » dit-elle, avec une moue embarrassée.
+« He says I work hard », dit-elle, avec une moue embarrassée.
 Le père ajouta une phrase plus longue.
 Dewi hésita.
 « He says I am a good daughter. »
@@ -1099,7 +1099,7 @@ Elle baissa les yeux en disant cela. Jacques ne sut pas quoi répondre. Il acqui
 Deux garçons et une fille entrèrent à leur tour. C’étaient les frères et la sœur de Dewi. Ils devaient avoir entre huit et seize ans. Ils se tinrent d’abord à distance, puis se rapprochèrent peu à peu, attirés par Jacques. Le plus jeune avait un maillot de football aux couleurs de Manchester United. Il regardait Jacques comme une apparition télévisée.
 La mère les invita à s’asseoir. Le repas avait été disposé sur une natte et sur une petite table basse. Il y avait du riz blanc, du poulet à la sauce soja sucrée, du tempeh frit, du tofu, des concombres, une soupe claire aux légumes, des krupuk et un sambal rouge dans une coupelle. Tout avait été préparé en quantité excessive. La mère allait et venait entre la cuisine et la pièce principale, apportant encore une assiette, encore une cuillère, encore un verre. Elle refusait de s’asseoir tant que les autres n’avaient pas commencé.
 Jacques attendit que Dewi lui indique quoi faire. Elle lui servit du riz, un morceau de poulet, du tempeh, puis lui montra le sambal.
-« Careful, » dit-elle.
+« Careful », dit-elle.
 Il voulut faire bonne figure. Il en prit une petite quantité. À la première bouchée, la chaleur lui monta au visage. Il tenta de rester digne, mais ses yeux se remplirent d’eau. Le plus jeune frère le vit et partit d’un rire aigu. La sœur lui donna un verre d’eau. La mère s’inquiéta, se leva, parla très vite. Dewi riait aussi, mais plus doucement.
 « She says you don’t have to eat spicy. She says she can make eggs. »
 « No, no. It’s very good. »
@@ -1124,7 +1124,7 @@ La journée déclina. La voix du muezzin s’éleva au-dessus des toits, étiré
 La mère commença alors à parler avec insistance. Jacques comprit qu’il était question de la nuit. La mère voulait qu’ils restent. On pouvait leur laisser la chambre des enfants. Les garçons dormiraient dans la pièce principale. Ce n’était pas un problème. Il y avait un ventilateur.
 Jacques la regarda. Elle sourit, mais son visage s’était fermé.
 « My mother says we can sleep here. »
-« It’s very kind, » dit-il. « But maybe we should not disturb them. »
+« It’s very kind », dit-il. « But maybe we should not disturb them. »
 Dewi hocha la tête trop vite.
 « I told her we’d already booked a hotel. »
 Il la regarda. Ils n’avaient rien réservé.
@@ -1132,7 +1132,7 @@ Elle soutint son regard une seconde, puis se tourna vers sa mère. La mère éco
 Au moment du départ, la mère leur donna un petit sac avec des restes du repas, enveloppés soigneusement. Le père serra de nouveau la main de Jacques. Les enfants accompagnèrent Dewi jusqu’au bout de la ruelle. Le plus jeune demanda à Jacques de revenir. Dewi dit seulement :
 « He likes you. »
 Ils retrouvèrent un taxi sur l’avenue plus large. Dewi resta silencieuse pendant les premières minutes. Elle tenait le sac de nourriture sur ses genoux. À travers la vitre, Tambun Selatan reculait dans le soir. Les petites maisons et les câbles électriques se mêlaient dans la lumière des phares.
-« I’m sorry, » dit-il enfin.
+« I’m sorry », dit-il enfin.
 Dewi tourna la tête vers lui.
 « For what? »
 « For not staying. »
@@ -1146,7 +1146,7 @@ Quand Dewi revint, les cheveux mouillés, enveloppée dans un peignoir blanc, el
 « What does she say? »
 « She says thank you for coming. She says you are polite. »
 Ils mangèrent un peu du poulet froid que la mère avait emballé pour eux. Assis sur le bord du lit, dans la chambre luxueuse, ils prenaient avec les doigts des morceaux de viande et de riz collé. Dewi rit doucement en voyant Jacques chercher une serviette. Elle lui tendit un mouchoir.
-« You see, » dit-elle. « My mother always gives food. Too much food. »
+« You see », dit-elle. « My mother always gives food. Too much food. »
 Puis le silence revint.
 Le lendemain, ils restèrent tard à l’hôtel. Jacques descendit nager quelques longueurs dans la piscine bordée de petites statues. Dewi dormit encore. Au petit déjeuner, elle mangea peu. Il voulut lui demander si elle était heureuse de l’avoir emmené, mais se tut.
 L’après-midi, ils reprirent l’avion pour Singapour.
@@ -1206,12 +1206,12 @@ L’approbation dépendait souvent de Melissa. Melissa était une jeune chef de 
 Elle ouvrait ensuite un calendrier, acceptait une réunion, en refusait une autre, puis partait chercher du thé. Jacques la voyait revenir dix minutes plus tard avec un gobelet fumant, et entrer dans une méditation studieuse devant des plannings dont elle seule possédait la clé. Jacques finit par comprendre que ces plannings étaient destinés à Jeff.
 À la table voisine travaillaient Farid et Wayne qui venaient de rejoindre le projet. Ils étaient chargés de préparer des données de test. Cette activité consistait, en apparence, à remplir des fichiers Excel avec des chiffres choisis selon une méthode probabiliste.
 Farid était très sérieux. Wayne aussi. Ensemble, ils formaient une équipe étonnamment efficace pour produire des anomalies. 
-« Put six there, » dit Wayne.
+« Put six there », dit Wayne.
 « Six what? » demanda Farid.
 « Just six. The field is mandatory. »
 Farid écrivit six.
 Jacques leva les yeux.
-« What does the field represent? »
+« What does the field represent? »	
 Wayne regarda le nom de la colonne.
 « Interest rate. »
 « Six percent? »
@@ -1278,13 +1278,13 @@ Ravi se pencha, soudain intéressé.
 Ravi sourit.
 « Good. »
 Jacques s’attendait à le voir repartir vers les ascenseurs. Ravi regardait l’écran avec une attention nouvelle. Il lut quelques lignes de code.
-« TensorFlow. Classification, » dit-il.
+« TensorFlow. Classification », dit-il.
 Jacques leva les yeux.
 « You know this? »
 Ravi eut un petit mouvement de tête latéral.
 « My son does. He studies this at IIT Bombay. First year. Very difficult to get in. »
 Il sortit son téléphone et chercha une photo. On y voyait un garçon maigre, très sérieux, debout devant un bâtiment de béton clair. Ravi contempla l’image une seconde avant de la montrer à Jacques. 
-« He doesn’t want to do banking, » dit Ravi.
+« He doesn’t want to do banking », dit Ravi.
 « That’s probably wise. »
 Ravi rit doucement.
 « He says all this is old world. Files, approvals, meetings. He says machines will do it better. »
@@ -1295,7 +1295,7 @@ Jacques ne répondit pas. Ravi regarda encore l’écran.
 « Not yet. »
 « But you like it, yes? I can tell. »
 Il tira une chaise et s’assit à côté de lui. Il n’avait jamais vu Ravi rester au bureau plus longtemps que nécessaire. D’ordinaire, à dix-huit heures trente, il disparaissait avec une ponctualité de montre suisse.
-« You know, » dit Ravi, « the file this afternoon was not ready. »
+« You know », dit Ravi, « the file this afternoon was not ready. »
 Jacques tourna la tête vers lui.
 « I know. »
 Ravi sourit encore.
@@ -1467,7 +1467,7 @@ Chapitre 19
 Atterrir pour de bon **
 
 Il répondit à Stéphanie qu’il n’avait rien de prévu, qu’elle pouvait passer vers quinze heures s’il lui convenait de marcher un peu. Elle proposa un café sur Westbourne Grove, à mi-chemin de chez lui et de Cleveland Square. Il accepta. Puis il relut leurs trois messages.
-À quatorze heures cinquante, Jacques quitta l’appartement. La pluie avait cessé. Il remonta sa fermeture, glissa les mains dans les poches de son manteau et descendit la rue d’un pas lent. Il avait peu dormi. Il avait la tête lourde encore du vol et du décalage horaire. Il était troublé à l’idée de revoir Stéphanie au bout de trois ans.
+À quatorze heures cinquante, Jacques quitta l’appartement. La pluie avait cessé. Il remonta sa fermeture, glissa les mains dans les poches de son manteau et descendit la rue d’un pas lent. Il avait peu dormi. Il avait encore la tête lourde du vol et du décalage horaire. Il était troublé à l’idée de revoir Stéphanie au bout de trois ans.
 Le café était étroit, chaud, rempli d’une odeur de grains moulus et de laine mouillée. Jacques choisit une table au fond, près de la vitre.
 Il arriva avec dix minutes d’avance. Il commanda un flat white. Chaque fois que la porte s’ouvrait, il levait la tête machinalement. Il se demanda ce qu’il espérait exactement de cette rencontre. 
 Elle entra à quinze heures six.
@@ -1608,7 +1608,7 @@ Il raccrocha.
 Il se leva, choisit une chemise blanche, noua une cravate qu’il défit aussitôt. On ne portait plus de cravate depuis longtemps. Il finit par enfiler un costume bleu sombre.
 Il prit le Tube à Notting Hill Gate, descendit dans la chaleur rance des couloirs. À Westminster, il changea pour la Jubilee line. Le train plongea vers l’est. Cette partie de la ville ressemblait à un modèle réduit de Manhattan, tranchant avec les quartiers populaires alentour. Canary Wharf apparut enfin, avec ses tours toujours plus hautes et ses bassins noirs. Le quartier d’affaires avait beaucoup changé depuis l’arrivée de Jacques à Londres. De nouveaux restaurants avaient ouvert, et des tours résidentielles avaient poussé entre les bassins. Par endroits, le quartier lui rappelait Singapour.
 Jacques remonta à la surface et resta quelques secondes immobile. Le vent glacé passait entre les tours. Il rabattit machinalement le pan de son manteau contre lui.
-L’immeuble se trouvait au bord d’un bassin. Il entra dans le hall immense, vêtu de marbre pâle. Une hôtesse lui remit un badge visiteur après qu’il eut montré sa pièce d’identité. Son vernis à ongles s’écaillait.
+L’immeuble se trouvait au bord d’un bassin. Il entra dans le hall immense, revêtu de marbre pâle. Une hôtesse lui remit un badge visiteur après qu’il eut montré sa pièce d’identité. Son vernis à ongles s’écaillait.
 On vint le chercher deux minutes plus tard. Peter Lawson était plus gris qu’autrefois.
 « Content de te voir », dit-il.
 Ils se serrèrent la main et gagnèrent l’ascenseur. Peter parlait déjà.
@@ -1679,7 +1679,7 @@ Il posa son manteau sur une chaise. Elle alla à la cuisine, vérifia le four, o
 Ils burent un verre debout près du plan de travail. Elle lui demanda comment se déroulait sa recherche d’emploi. Il lui parla de son rendez-vous à Canary Wharf.
 Elle l’écouta sans l’interrompre, puis dit seulement :
 « Je ne comprends pas bien ce que c’est, l’IA. Tu sais, Jacques, je n’ai pas fait de longues études. »
-Il hocha la tête et la regarda avec tendresse. Il se souvenait qu’elle se sentait souvent diminuée de ne pas avoir fait les grandes écoles parisiennes. Elle le glissait parfois, très sérieusement. Elle disait des choses comme : « C’est ça qu’on vous apprend dans vos grandes écoles ? » À chaque fois, il éprouvait un élan de tendresse. Son ex-mari venait de ce monde-là. Elle l’avait admiré pour cela. 
+Il hocha la tête et la regarda avec tendresse. Il se souvenait qu’elle se sentait souvent diminuée de ne pas avoir fait les grandes écoles parisiennes. Elle le laissait entendre parfois, très sérieusement. Elle disait des choses comme : « C’est ça qu’on vous apprend dans vos grandes écoles ? » À chaque fois, il éprouvait un élan de tendresse. Son ex-mari venait de ce monde-là. Elle l’avait admiré pour cela. 
 Ils passèrent à table vers huit heures. Le poulet était bien cuit, les pommes de terre trop salées.
 « Je sais que tu adores la moutarde alors j’ai acheté de la moutarde de Dijon, celle que tu préfères. »
 Ils parlèrent du bar à vin qu’elle avait vendu. Jacques n’avait pas compris qu’elle s’en séparait.
@@ -1691,7 +1691,7 @@ Stéphanie s’était liée d’amitié avec une autre mère qui élevait ses tr
 « C’est une femme comblée. »
 « Comblée ? »
 « Oui, avec ses enfants et son mari. »
-Son mari était partner dans un fonds d’investissement. Il pratiquait la boxe anglaise en amateur et allait voir des combats de MMA. Un soir, ils étaient allés ensemble à des combats de boxe à mains nues à l’O2 de Greenwich. Jacques se souvenait des arcades ouvertes, des visages défaits, du public qui réclamait encore. L’homme avait adoré. Lors de la troisième grossesse de sa femme, il était entré dans une fureur complète lorsqu’il avait appris le sexe de l’enfant. Il voulait un garçon. C’était encore une fille. Il avait reproché à sa femme de ne pas avoir suivi correctement le régime censé en décider et ne lui avait pas parlé pendant quatre semaines.
+Son mari était partner dans un fonds d’investissement. Il pratiquait la boxe anglaise en amateur et allait voir des combats de MMA. Un soir, ils étaient allés ensemble à des combats de boxe à mains nues à l’O2 de Greenwich. Jacques se souvenait des arcades ouvertes, des visages défaits, du public qui réclamait encore. L’homme avait adoré. Lors de la troisième grossesse de sa femme, il était entré dans une fureur noire lorsqu’il avait appris le sexe de l’enfant. Il voulait un garçon. C’était encore une fille. Il avait reproché à sa femme de ne pas avoir suivi correctement le régime censé en décider et ne lui avait pas parlé pendant quatre semaines.
 Sa femme était donc comblée.
 Le vin commençait à détendre Stéphanie. Elle avait repris des couleurs.
 « Tu sais, on se raconte tout », dit-elle.
@@ -1777,7 +1777,7 @@ Un écran diffusait des défilés de mode.
 Il s’assit au bar. Le barman leva les yeux.
 « Une bière ? »
 « Oui. »
-On lui posa une pinte devant lui. Une fille monta sur scène. Elle passa son iPhone 11 au DJ. Immédiatement les enceintes diffusèrent Nightcall de Kavinsky. La fille, visiblement russe ou ukrainienne, commença à se déhancher au rythme de la musique, ses seins bondissaient ; puis elle monta sur le pole et se mit à tourner de plus en plus vite. En redescendant, elle écarta les jambes et décrocha sa minuscule culotte, puis continua de tourner. Jacques la regarda jusqu’à la fin du morceau, puis détourna les yeux.
+On posa une pinte devant lui. Une fille monta sur scène. Elle passa son iPhone 11 au DJ. Immédiatement, les enceintes diffusèrent Nightcall de Kavinsky. La fille, visiblement russe ou ukrainienne, commença à se déhancher au rythme de la musique ; ses seins bondissaient. Puis elle monta sur le pole et se mit à tourner de plus en plus vite. En redescendant, elle écarta les jambes et décrocha sa minuscule culotte, puis continua de tourner. Jacques la regarda jusqu’à la fin du morceau, puis détourna les yeux.
 Puis la danseuse se rhabilla rapidement. Elle descendit de l’estrade et s’approcha de Jacques. Elle était blonde avec une large poitrine, très bien maquillée. Elle le regarda avec attention.
 « Je vous connais, non ? »
 Jacques sourit.
@@ -1799,7 +1799,7 @@ Puis, avec un sourire presque doux :
 Jacques secoua la tête.
 « Non, merci. »
 Elle insista, puis finit par se lever et se rapprocha d’une table au fond où deux hommes se parlaient sans regarder la scène.
-Une autre fille brune lui jeta un regard rapide, puis se joignit à lui.
+Une autre fille brune lui jeta un regard rapide, puis s’approcha de lui.
 « Mauvaise journée ? »
 Jacques ne répondit pas. Il regarda la scène. La fille qui dansait venait de descendre. Une autre montait déjà, sans hâte, en se tenant à la rampe pour ne pas glisser.
 Elle jeta un regard vers le bar.
@@ -2061,7 +2061,7 @@ Quand la vidéo s’arrêta, l’algorithme proposa aussitôt d’autres vidéos
 Jacques vida le fond de sa bière et alla se coucher. 
 
 Jacques répondit à la journaliste du Monde dès le lendemain matin. 
-Le samedi suivant, Jacques retrouva Laure Coromines dans un café de Kensington, à deux rues de High Street. Quand Laure entra, Jacques la reconnut aussitôt à la manière qu’elle eut de balayer la salle d’un seul regard. Elle était beaucoup plus jeune qu’il ne se l’était imaginée. Elle devait avoir tout juste trente ans. Ses cheveux étaient d’une couleur rouge sombre, elle portait un pantalon moulant et une veste de cuir nuit qui lui arrivait au nombril. Dessous, il aperçut un T-shirt à l’effigie de Rag’n’Bone Man. Elle ôta sa veste et Jacques s’aperçut que son bras gauche portait un large tatouage qui lui couvrait l’épaule jusqu’à la main. Le tatouage, très fin, représentait une lionne au milieu de fleurs.
+Le samedi suivant, Jacques retrouva Laure Coromines dans un café de Kensington, à deux rues de High Street. Quand Laure entra, Jacques la reconnut aussitôt à la manière qu’elle eut de balayer la salle d’un seul regard. Elle était beaucoup plus jeune qu’il ne se l’était imaginée. Elle devait avoir tout juste trente ans. Ses cheveux étaient d’une couleur rouge sombre, elle portait un pantalon moulant et une veste de cuir noir qui lui arrivait au nombril. Dessous, il aperçut un T-shirt à l’effigie de Rag’n’Bone Man. Elle ôta sa veste et Jacques s’aperçut que son bras gauche portait un large tatouage qui lui couvrait l’épaule jusqu’à la main. Le tatouage, très fin, représentait une lionne au milieu de fleurs.
 Elle s’assit en face de lui et le remercia d’être venu, puis sortit de son sac un iPhone 14 et un stylo.
 « Merci d’avoir accepté, dit-elle. J’ai eu très peu de réponses. »
 « Vous lui avez écrit directement ? » demanda-t-il.
@@ -3098,7 +3098,7 @@ Le chirurgien, un homme à l’air jovial, leva les yeux vers l’écran.
 « On commence. »
 Il n’y eut pas de musique. Jacques avait imaginé qu’il y aurait une musique douce, une concession faite à la peur des familles. Il n’y eut que le bruit des instruments, le froissement des champs, l’aspiration brève, les mots techniques échangés à demi-voix. Lyubov fixait le plafond. Jacques voyait dans ses yeux le reflet des lumières rondes du bloc.
 « Parle-moi », dit-elle.
-Il chercha une phrase. Toutes lui parurent absurdes. Il pensa à leur première rencontre où elle était arrivée avec plus d’une heure de retard, sur les rives de la Tamise, pendant la crise sanitaire. Il avait failli partir, se disant qu’elle ne viendrait pas. Le destin tient à peu de choses. S’il avait pris cette décision, l’être humain qu’elle portait n’aurait jamais vu le jour. Il y avait dans la vie un caractère aléatoire qui faisait qu’on ne pouvait s’en lasser.
+Il chercha une phrase. Toutes lui parurent absurdes. Il pensa à leur première rencontre où elle était arrivée avec plus d’une heure de retard, sur les rives de la Tamise, pendant la crise sanitaire. Il avait failli partir, se disant qu’elle ne viendrait pas. Le destin tenait à peu de choses. S’il avait pris cette décision, l’être humain qu’elle portait n’aurait jamais vu le jour. Il y avait dans la vie un caractère aléatoire qui faisait qu’on ne pouvait s’en lasser.
 Il avait tout de suite aimé chez elle sa force de caractère et la passion qu’elle avait pour son métier. Dès leur première rencontre, elle lui avait dit qu’elle avait une sœur jumelle qui était restée à Moscou. Jacques s’était montré très curieux.
 Une pression plus forte traversa le bas de son corps. Elle fronça les sourcils.
 « Ça tire. »
@@ -3570,7 +3570,7 @@ Vivian était déjà là. Elle portait un tailleur sombre et un manteau long sur
 Vivian leva les yeux.
 « Essaie de ne pas avoir l’air d’avoir été kidnappé par une banque. »
 « Je fais ce que je peux. »
-L’ascenseur monta sans bruit. Au quatrième étage, Maya Thorne les accueillit elle-même. Elle portait un ensemble gris clair. Son cou d’une blancheur laiteuse arborait un immense bijou en or. Derrière elle se tenaient deux hommes et une femme.
+L’ascenseur monta sans bruit. Au quatrième étage, Maya Thorne les accueillit elle-même. Elle portait un ensemble gris clair. À son cou d’une blancheur laiteuse brillait un immense bijou en or. Derrière elle se tenaient deux hommes et une femme.
 Le premier, Simon Vale, associé principal, avait des cheveux poivre et sel coupés court. Le second, Nikhil Rao, était plus jeune. Il dirigeait les investissements en intelligence appliquée. La femme s’appelait Eleanor Marsh. Elle était la responsable juridique du fonds.
 On les fit entrer dans une immense salle de réunion à la moquette épaisse. Au centre de la table étaient disposés des carafes d’eau, des carnets noirs et des stylos alignés.
 Maya commença.
@@ -3795,7 +3795,7 @@ Materia ne prédisait plus seulement le mot suivant, mais le mouvement suivant, 
 Materia était devenue le nom de cette époque.
 La société avait d’abord été reçue avec scepticisme, puis avec fascination, puis avec cette forme d’évidence rétrospective que les marchés accordent aux vainqueurs. Ses machines parlaient moins que les autres. Mais elles savaient agir. Elles apprenaient la maison, l’usine, l’hôpital, la route, l’escalier. On les voyait dans des vidéos préparer une omelette, porter un vieillard, réparer une fuite, trier des déchets ou ranger une chambre d’enfant avec une lenteur attentive.
 Jacques observait cela avec trouble. Les modèles de langage de la décennie précédente avaient imité la pensée par la langue. Les nouveaux systèmes imitaient ce que l’on trouve dans le monde animal dépourvu de langage : l’ajustement du corps au réel.
-Thomas les voyait grandir avec lui.
+Thomas grandissait au milieu d’elles.
 À l’école, les enfants utilisaient des tuteurs adaptatifs. Les cahiers avaient disparu. Chaque élève avait un compagnon d’apprentissage qui suivait ses progrès, recomposait les exercices, ralentissait les explications, inventait des exemples, corrigeait les fautes. Les machines savaient faire preuve de patience. Elles ne soupiraient pas. Elles n’avaient pas d’autre enfant à aller chercher.
 Un soir de novembre, Thomas revint de l’école avec un dessin plié en quatre dans la poche de son manteau.
 Lyubov était encore au bureau. Jacques avait préparé des pâtes et coupé une pomme en quartiers. Thomas mangeait lentement, distrait par une petite araignée mécanique qui se déplaçait sur l’écran de la tablette. Elle montrait comment les animaux répartissent leur poids sur plusieurs pattes. Lorsqu’il touchait l’une des articulations, la simulation changeait, et l’araignée tombait, puis se relevait autrement.
@@ -3941,3 +3941,4 @@ Après des études d’ingénieur et d’économie, l’auteur a travaillé dans
 
  
  
+
