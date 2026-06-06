@@ -168,7 +168,7 @@ Puis il était tombé sur un homme obèse d’une trentaine d’années, un cart
 « You’re late, mate. I’m the last one. Et on vient de me virer moi aussi. »
 Il avait souri en le disant, sans amertume, avec cette bonhomie toute britannique. Il haussa les épaules, goguenard, et ajouta : 
 « Remballe ton logiciel. Prends un carton. Y en a là-bas. »
-Et Jacques s’était vu, un instant, debout avec son ordinateur, son sérieux, et ses équations inutiles, au milieu d’un effondrement qu’on appelait simplement “restructuration”.
+Et Jacques s’était vu, un instant, debout avec son ordinateur, son sérieux et ses équations inutiles, au milieu d’un effondrement qu’on appelait simplement “restructuration”.
 
 
  
@@ -236,7 +236,7 @@ Stéphanie hocha la tête.
 « Elle va mieux », dit-elle, sans conviction. « Elle a arrêté de pleurer. Mais elle m’a demandé si j’allais revenir. Deux fois. »
 Jacques se sentit impuissant. Il pensa à la phrase du père, au caractère abject de sa saillie. Il n’en parla pas. 
 Ils continuèrent à marcher. Des parents tiraient des luges. Les enfants riaient, lançant des cris aigus dans l’air blanc. Stéphanie les regarda, et Jacques eut l’impression qu’elle regardait autre chose aussi, une vie familiale épanouie qu’elle aurait pu avoir, ou qu’elle avait cru tenir.
-En rentrant, ils firent quelques courses au supermarché. Jacques acheta du saumon, du pain noir et des fruits. Dans l’appartement, il posa les sacs sur le plan de travail, alluma une lampe et la pièce se montra soudain accueillante. Stéphanie retira son pull. Elle se rendit dans la salle de bain et se lava les mains longtemps. Jacques la regardait sans l’interrompre.
+En rentrant, ils firent quelques courses au supermarché. Jacques acheta du saumon, du pain noir et des fruits. Dans l’appartement, il posa les sacs sur le plan de travail, alluma une lampe et la pièce se montra soudain accueillante. Stéphanie retira son pull. Elle se rendit dans la salle de bains et se lava les mains longtemps. Jacques la regardait sans l’interrompre.
 Puis elle s’assit sur le canapé, les jambes repliées, le téléphone sur les genoux. Elle envoya un message, en reçut un autre, et répondit encore. 
 Quand elle posa enfin le téléphone, Stockholm était déjà plongée dans l’obscurité. Elle ferma les yeux un instant.
 « Je suis désolée », dit-elle. « Je suis nulle. »
@@ -395,7 +395,7 @@ Jacques imagina la chose, et cela lui parut plus logique.
 « Une porte qui ne s’ouvre que si on frappe. » 
 « Voilà. Un verrou. Chez nous, l’horloge tourne toute seule. Chez elles, l’acte déclenche l’interrupteur. C’est utile quand les rencontres sont rares. » 
 Jacques marcha quelques secondes sans parler. Le souvenir d’Ingrid lui revint. Elle l’avait tant aimé dix ans plus tôt à Paris et l’avait supplié de lui faire un enfant.
-Un soir, il l’avait aperçue dans l’entrebâillement de la porte de la salle de bain du petit appartement qu’ils partageaient rue de la Rosière. Elle se regardait dans le miroir, un petit oreiller glissé sous son T-shirt. Elle avait posé une main dessus, avec gravité. Il était resté immobile dans le couloir, incapable d’entrer, incapable de détourner les yeux.
+Un soir, il l’avait aperçue dans l’entrebâillement de la porte de la salle d’eau du petit appartement qu’ils partageaient rue de la Rosière. Elle se regardait dans le miroir, un petit oreiller glissé sous son T-shirt. Elle avait posé une main dessus, avec gravité. Il était resté immobile dans le couloir, incapable d’entrer, incapable de détourner les yeux.
 Parfois, elle faisait des projets pour eux. Elle les imaginait tous les deux passant l’après-midi au zoo de Vincennes avec leur enfant. Elle parlait des girafes, des glaces qu’ils achèteraient, du petit manteau qu’il faudrait prévoir s’il faisait froid. Puis elle se mettait à pleurer dans le creux de son épaule, longuement.
 Il la sentait hoqueter contre lui, son souffle chaud se brisant par moments. Il ne savait pas quoi lui dire. Il avait vingt-sept ans. Alors il la serrait de toutes ses forces, et elle finissait par se calmer.
 Parfois, ils faisaient ensuite l’amour avec douceur. Elle s’endormait dans ses bras. Jacques attendait longtemps avant de se dégager. Elle se retournait alors dans le sommeil, en faisant un petit bruit de bête blessée qui l’émouvait chaque fois.
@@ -416,7 +416,7 @@ Manuela le regarda longuement. Puis elle ajouta :
 « Malgré tout, les gens essaient d’en faire quelque chose de tendre. C’est ça qui est étrange. »
 Ils revinrent vers la ville. Les quais se remplissaient. Des jeunes s’asseyaient au bord de l’eau, bière à la main. La ville semblait vivre avec une urgence tranquille. Elle savait que l’été, ici, est court.
 Jacques dit, en passant, comme on lance une hypothèse :
-« On pourrait imaginer un monde où ce serait l’inverse. Les femmes n’ovulent que si l’acte sexuel déclenche l’interrupteur. Et les hommes, eux, ne produisent du sperme qu’à dates fixes. »
+« On pourrait imaginer un monde où ce serait l’inverse. Les femmes n’ovulent que si l’acte sexuel déclenche l’interrupteur. Et les hommes, eux, ne produisent du sperme qu’à des dates fixes. »
 Manuela ralentit. 
 « On peut l’imaginer, oui. Et on en voit des fragments dans la nature. Il existe des espèces où la fertilité mâle est saisonnière. »
 Au croisement d’une rue, Manuela s’arrêta.
@@ -517,7 +517,7 @@ Le sillage **
 Jacques profita de ce qui restait de l’été. Il s’éloigna de Stéphanie. Il lui arrivait encore de voir son nom apparaître sur l’écran de son téléphone, mais il attendait avant de répondre. Manuela, elle, revenait sans prévenir. Son sourire lui manquait. Le collier clouté était resté sur sa table de nuit.
 Il la rappela une semaine après le concert. Elle répondit après quelques sonneries.
 Ils partirent très tôt, un vendredi. Jacques avait proposé un long week-end à Gotland. Manuela avait levé les yeux de son téléphone, l’avait regardé un instant, puis avait dit oui, gaiement.
-Ils prirent le bateau à Nynäshamn. Des familles avançaient au pas, enfants en sandales. Des couples se tenaient par la taille. 
+Ils prirent le bateau à Nynäshamn. Des familles avançaient au pas, enfants en sandales. Des couples se tenaient par la taille.
 Peu après le départ du bateau, la mer Baltique s’ouvrit, plate et gris-bleu. Le vent fouettait les rambardes. Manuela s’approcha du bastingage. Ses cheveux bougèrent, libres.
 « Ça fait du bien, dit-elle. »
 Jacques hocha la tête. Il regardait la ligne d’écume derrière eux, ce sillage blanc, cette trace brève.
@@ -1139,8 +1139,8 @@ Dewi tourna la tête vers lui.
 Elle regarda de nouveau la route.
 « It’s okay. You wouldn’t have slept. »
 Ils arrivèrent au Four Seasons. La voiture monta la rampe. Un portier ouvrit la porte. Dans le hall, l’air était frais. Des fleurs de frangipanier avaient été disposées devant la réception. Des orchidées occupaient une table de marbre. La réceptionniste leur sourit avec une douceur professionnelle. On prit leurs sacs.
-La chambre était vaste. Le lit, démesuré. La salle de bain était garnie de serviettes épaisses, d’une baignoire profonde et de longs miroirs. Derrière la baie vitrée, Jakarta s’étendait dans la nuit, hérissée de tours. 
-Dewi posa le sac de nourriture sur le bureau. Elle retira ses chaussures, alla dans la salle de bain, ouvrit la douche. L’eau coula longtemps.
+La chambre était vaste. Le lit, démesuré. La salle de bains était garnie de serviettes épaisses, d’une baignoire profonde et de longs miroirs. Derrière la baie vitrée, Jakarta s’étendait dans la nuit, hérissée de tours. 
+Dewi posa le sac de nourriture sur le bureau. Elle retira ses chaussures, alla dans la salle de bains, ouvrit la douche. L’eau coula longtemps.
 Jacques resta debout près de la fenêtre. 
 Quand Dewi revint, les cheveux mouillés, enveloppée dans un peignoir blanc, elle consulta son téléphone. Sa mère avait envoyé un message. Dewi le lut, sourit faiblement, répondit quelques mots.
 « What does she say? »
@@ -1199,8 +1199,8 @@ Ravi ouvrit une feuille Excel. Elle contenait des lignes jaunes, oranges, vertes
 Ravi fit défiler le fichier.
 « Depends. »
 Il sourit, satisfait d’avoir répondu.
-L’approbation dépendait souvent de Melissa. Melissa était une jeune chef de projet singapourienne. Elle avait une capacité remarquable à ne rien promettre. Lorsque Jacques lui posait une question directe, elle répétait une partie de la question, prenait une note, puis disparaissait.
-« So you still cannot access the environment, » disait-elle.
+L’approbation dépendait souvent de Melissa, une jeune chef de projet singapourienne. Elle avait une capacité remarquable à ne rien promettre. Lorsque Jacques lui posait une question directe, elle répétait une partie de la question, prenait une note, puis disparaissait.
+« So you still cannot access the environment », disait-elle.
 « Yes. »
 « Okay. Let me check. »
 Elle ouvrait ensuite un calendrier, acceptait une réunion, en refusait une autre, puis partait chercher du thé. Jacques la voyait revenir dix minutes plus tard avec un gobelet fumant, et entrer dans une méditation studieuse devant des plannings dont elle seule possédait la clé. Jacques finit par comprendre que ces plannings étaient destinés à Jeff.
@@ -1505,7 +1505,7 @@ Elle rit, enfin. Ce rire lui fit du bien par la netteté avec laquelle il rouvra
 Cette fois, ce fut elle qui regarda sa tasse avant de répondre.
 « Ça dépend des jours. »
 « Les enfants ? »
-« Ça va mieux. Enfin, autant que possible. Julie grandit. Elle comprend mieux maintenant. Son frère cadet, lui, c’est différent. Tu sais que la semaine dernière la directrice de l’école m’a même convoquée car il a brandi son poing devant le menton de son camarade. L’enfant était en pleurs lorsque sa mère est venue le chercher. »
+« Ça va mieux. Enfin, autant que possible. Julie grandit. Elle comprend mieux maintenant. Son frère cadet, lui, c’est différent. Tu sais que, la semaine dernière, la directrice de l’école m’a même convoquée car il a brandi son poing devant le menton de son camarade. L’enfant était en pleurs lorsque sa mère est venue le chercher. »
 Elle but une gorgée de thé.
 « Leur père reste leur père. »
 Stéphanie le regardait de nouveau.
@@ -1725,7 +1725,7 @@ Le baiser fut lent. Elle répondit. Sa bouche avait gardé cette suavité qu’i
 Rien ne fut maladroit ni raté. Mais rien n’eut non plus cette qualité de suspension qu’il avait connue avec elle. Ils se déshabillèrent avec une simplicité pratique. Elle s’assit un instant sur le bord du lit pour retirer ses chaussettes. Jacques regrettait confusément la façon qu’elle avait eue autrefois d’habiter le désir, avec plus de jeu, plus d’abandon offert. C’était plus arrangé peut-être, mais aussi plus troublant.
 Cette fois, elle ne cherchait plus à tenir la scène. Elle était là. Elle le voulait assez pour être avec lui. Mais pas davantage. Ou pas de la même façon.
 Ils firent l’amour pourtant. Avec soin. Avec application parfois. À plusieurs reprises, il crut retrouver un geste ancien, un son, une manière qu’elle avait de s’accrocher à lui. Puis cela s’éloignait de nouveau. Ce n’était pas froid. Ce n’était pas malheureux. C’était juste plus dépouillé.
-Après, elle resta allongée quelques secondes, puis se leva, nue, sans se presser. Elle ramassa son pull tombé sur le tapis, le posa sur une chaise, alla dans la salle de bain, revint avec un verre d’eau. Elle but debout près du lit, regarda son téléphone qui s’était rallumé sur la commode, puis revint se glisser sous la couette.
+Après, elle resta allongée quelques secondes, puis se leva, nue, sans se presser. Elle ramassa son pull tombé sur le tapis, le posa sur une chaise, alla dans la salle de bains, revint avec un verre d’eau. Elle but debout près du lit, regarda son téléphone qui s’était rallumé sur la commode, puis revint se glisser sous la couette.
 Jacques était encore assis. Elle posa sa tête sur l’oreiller.
 « Tu ne dors pas ? » demanda-t-elle.
 « Pas encore. »
@@ -2403,7 +2403,7 @@ Il se retourna.
 « Oui ? »
 « Tu peux venir t’asseoir une minute ? »
 Quelque chose, dans la simplicité de la phrase, lui fit aussitôt comprendre qu’elle n’allait pas lui parler du travail ni d’un détail domestique. Il reposa l’assiette sur le bord de l’évier et revint vers la table.
-Lyubov resta debout un instant, puis alla jusqu’à la salle de bain. Il entendit le tiroir du meuble s’ouvrir. Lorsqu’elle revint, elle tenait dans la main un petit objet blanc qu’elle posa devant lui avec précaution.
+Lyubov resta debout un instant, puis alla jusqu’à la salle de bains. Il entendit le tiroir du meuble s’ouvrir. Lorsqu’elle revint, elle tenait dans la main un petit objet blanc qu’elle posa devant lui avec précaution.
 Jacques baissa les yeux.
 Il reconnut l’objet une seconde trop tard.
 C’était un test de grossesse.
@@ -2653,7 +2653,7 @@ La praticienne fit alors une acquisition plus longue, légèrement oblique. L’
 Probabilité sexe fœtal : élevée.
 La praticienne ne dit rien d’abord. Elle reprit la sonde, modifia l’angle, laissa l’image se fixer, puis regarda plus longtemps que précédemment.
 « Voulez-vous savoir ? » demanda-t-elle enfin.
-Lyubov tourna la tête vers Jacques. Jacques sentit en lui, à la question même, une impatience d’enfant.
+Lyubov tourna la tête vers Jacques. Il sentit en lui, à la question même, une impatience d’enfant.
 Lyubov hésita une seconde, puis dit :
 « Oui. »
 La praticienne garda les yeux sur l’écran.
@@ -3873,7 +3873,7 @@ Thomas sembla déçu.
 « Les machines, elles ne trouvent pas ça difficile. »
 « Peut-être qu’elles ne le trouvent pas difficile parce qu’elles ne savent pas ce que ça coûte. »
 Cette fois, Thomas ne comprit pas. Jacques le vit. Il n’insista pas.
-Plus tard, après le bain, ils s’assirent tous les deux sur le tapis du salon. Lyubov avait envoyé un message. Elle rentrerait tard. Thomas avait choisi un livre avec un hérisson sur la couverture. Jacques reprit la lecture au chapitre où ils s’étaient arrêtés la veille.
+Plus tard, après le bain, ils s’assirent tous deux sur le tapis du salon. Lyubov avait envoyé un message. Elle rentrerait tard. Thomas avait choisi un livre avec un hérisson sur la couverture. Jacques reprit la lecture au chapitre où ils s’étaient arrêtés la veille.
 Dehors, la pluie continuait, fine, obstinée. Les lumières des immeubles d’en face s’allumaient une à une. Dans certaines fenêtres, on voyait passer des silhouettes humaines. Dans d’autres, seulement la lueur bleutée d’un écran. Un petit robot de livraison s’arrêta au bord du trottoir, attendit qu’une voiture passe, puis traversa avec prudence.
 Thomas regarda par la vitre.
 « Lui, il sait traverser. »
