@@ -177,7 +177,7 @@ Chapitre 2
 Le hall des arrivées **
 
 Trois jours plus tard, jeudi soir, Jacques quitta le bureau à seize heures. Il ramassa son ordinateur, referma son manteau, traversa l’open space avec ce mélange de discrétion et de hâte qui, dans les open spaces, suscite la méfiance. Dans l’ascenseur, il se sentit joyeux à l’idée de retrouver Stéphanie pour quelques jours. Ses enfants étaient avec leur père jusqu’au lundi.
-Dehors, il faisait déjà nuit. Il héla un taxi Tesla. L’habitacle sentait le cuir neuf et la technologie de pointe. Le chauffeur ne posa pas de questions. Jacques se contenta de dire : Arlanda.
+Dehors, il faisait déjà nuit. Il héla un taxi Tesla. L’habitacle sentait le cuir neuf et la technologie de pointe. Le chauffeur ne posa pas de questions. Jacques se contenta de dire : « Arlanda ».
 Ils traversèrent le Vasastan. Puis le centre s’effaça. Les façades s’abaissèrent, les lumières se raréfièrent, et la route se déplia. Jacques sortit son iPhone, puis le rangea aussitôt. Il régla des détails absurdes : ce qu’il dirait en la voyant, comment il poserait la main sur sa valise, s’il fallait l’embrasser tout de suite ou attendre. Il avait la même nervosité qu’avant une réunion importante.
 Il pensa à Londres. L’été, les gens s’attardent, les pubs débordent, les parcs deviennent des plages improvisées. Stéphanie lui revint d’abord par son odeur sucrée, puis par ce visage qui portait une bonté silencieuse.
 Elle élevait seule deux enfants à Londres, dans un petit appartement donnant sur Cleveland Square, avec ce jardin au centre, soigneusement entretenu, comme on en trouve dans les quartiers cossus de l’ouest de la ville. Elle s’était séparée de son mari un an avant de rencontrer Jacques.
@@ -315,11 +315,11 @@ Ce 21 juin, il ouvrit son fichier, celui qu’il réutilisait toujours pour la c
 Il compta les jours où il s’était donné corps et âme.
 Vingt et un.
 Il tapa :
-« Daily rate : £1,200 per day ».
+« Daily rate: £1,200 per day ».
 Il fit le calcul lentement, et vérifia plusieurs fois, par peur de se tromper :
 21 × £1,200.
 Il écrivit : £25,200.
-La feuille Excel ajouta automatiquement la TVA. Le total s’éleva à £30,240 pour le mois de juin. Il rajouta le loyer de son appartement qu’il avait négocié séparément : SEK 53,000 ; soit £4,758.
+La feuille Excel ajouta automatiquement la TVA. Le total s’éleva à £30,240 pour le mois de juin. Il rajouta le loyer de son appartement, qu’il avait négocié séparément : SEK 53,000 ; soit £4,758.
 La même feuille de calcul effectua l’addition avec diligence : £34,998.
 La somme lui procura une satisfaction brève, mécanique. Elle avait la pureté d’un résultat exact. Un mois venait de prendre forme.
 Le soir, il rentra très tard. Il ne faisait pas nuit. Stockholm refusait d’offrir ce soulagement. La lumière persistait, têtue.
@@ -573,7 +573,7 @@ Elle prit le sien, souffla, but une gorgée et grimaça.
 Sur le pont, des gens parlaient, prenaient des photos, s’asseyaient, se levaient. 
 Manuela se tourna vers lui.
 « On reviendra ? »
-Jacques hésita un instant puis répondit :
+Jacques hésita un instant, puis répondit :
 « Oui. »
 Le bateau filait. Il était midi. 
 À l’arrivée, ils se séparèrent au centre-ville. Manuela partit vers le métro, son sac sur l’épaule, et Jacques la regarda s’éloigner.
@@ -808,7 +808,7 @@ Il venait, lui aussi, pour une affaire de lignée, mais il n’avait jamais su q
 Dans la pièce voisine, il entendit la notaire reprendre sèchement un clerc. Cela n’avait sans doute rien d’exceptionnel. Pourtant, au moment d’entrer, Jacques se sentit déjà importun.
 Il regarda autour de lui. Les dossiers reliés, les registres, les chemises épaisses, toute cette matière administrative semblait si éloignée de son existence habituelle.
 Le notariat incarnait encore, en France, une certaine idée de la continuité. Le client y était de passage, dans une maison plus ancienne que lui. Jacques songea que si le notariat n’avait évidemment pas inventé Vichy, il avait bien fallu des hommes de loi pour mettre en forme la dépossession. 
-Maître Viapard l’accueillit avec une politesse minimale. Il eut l’impression de déranger, après quatre heures de voyage pour ce déplacement. Elle avait une cinquantaine d’années, portait des lunettes fines et un tailleur sombre. Sa manière de parler indiquait un profond détachement.
+Maître Viapard l’accueillit avec une politesse minimale. Il eut l’impression de déranger, après quatre heures de voyage pour ce rendez-vous. Elle avait une cinquantaine d’années, portait des lunettes fines et un tailleur sombre. Sa manière de parler indiquait un profond détachement.
 « Monsieur, je vous présente mes condoléances. »
 Jacques hocha la tête.
 La notaire ouvrit un dossier.
@@ -861,9 +861,9 @@ Il posa le téléphone sur la table de nuit, éteignit la lampe et s’allongea.
 Chapitre 12
 Le frangipanier **
 
-Le lendemain matin, Jacques se rendit à Marina Bay. Il monta jusqu’au quarante-sixième étage, où se trouvait la salle des marchés fixed income. Le responsable du programme l’accueillit, puis le livra au reste de l’équipe. La journée se perdit dans l’examen d’une nébuleuse dont l’ampleur et la complexité défiaient l’entendement. Lorsqu’il quitta enfin la tour, à vingt et une heures passées, il eut le sentiment de sortir d’un bâtiment qui l’avait tenu sous séquestre. Dans le taxi, il ouvrit l’application de rencontres. Soixante-sept nouveaux messages l’y attendaient. Une jeune femme prénommée Dewi retint son attention. Elle était connectée. Il lui proposa de le rejoindre à Chinatown pour un verre. Elle accepta immédiatement. 
+Le lendemain matin, Jacques se rendit à Marina Bay. Il monta jusqu’au quarante-sixième étage, où se trouvait la salle des marchés fixed income. Le responsable du programme l’accueillit, puis le livra au reste de l’équipe. La journée se perdit dans l’examen d’une nébuleuse dont l’ampleur et la complexité défiaient l’entendement. Lorsqu’il quitta enfin la tour, à vingt et une heures passées, il eut le sentiment de sortir d’un bâtiment qui l’avait tenu sous séquestre. Dans le taxi, il ouvrit l’application de rencontre. Soixante-sept nouveaux messages l’y attendaient. Une jeune femme prénommée Dewi retint son attention. Elle était connectée. Il lui proposa de le rejoindre à Chinatown pour un verre. Elle accepta immédiatement. 
 Elle était plus jeune que lui, mince et petite, et souriait en montrant de grandes dents blanches. Elle portait une robe rouge, légère, qui découvrait ses épaules. Elle sentait le frangipanier. Son odeur était chaude, douce, lactée, avec une pointe de miel.
-Sago House occupait l’étage d’un shophouse étroit. Il fallut monter un escalier raide, quitter le vacarme et la moiteur de la rue, puis entrer dans une pénombre fraîche où l’air sentait l’alcool, le bois humide et les agrumes écrasés. Le lieu paraissait improvisé, assemblé à partir d’objets disparates, de dessins sur les murs et de bouteilles alignées. Les tables étaient collées les unes aux autres. 
+Sago House occupait l’étage d’une shophouse étroite. Il fallut monter un escalier raide, quitter le vacarme et la moiteur de la rue, puis entrer dans une pénombre fraîche où l’air sentait l’alcool, le bois humide et les agrumes écrasés. Le lieu paraissait improvisé, assemblé à partir d’objets disparates, de dessins sur les murs et de bouteilles alignées. Les tables étaient collées les unes aux autres.
 Ils s’assirent au comptoir. Dewi croisa les jambes et le tissu remonta légèrement sur sa cuisse. Jacques détourna les yeux avec lenteur, puis y revint. La lumière basse glissait sur sa clavicule, sur la ligne nue de son bras, sur le creux de son cou. Quand elle se pencha pour lire la carte, ses cheveux effleurèrent son épaule à lui. 
 Il commanda un Apple-ly Ever After. Il y eut d’abord la fraîcheur vive de la pomme, puis vint une acidité plus fine, vite reprise par la morsure de l’alcool. Le cocktail laissait sur la langue une impression fruitée qui appelait aussitôt une autre gorgée. Dewi opta pour un Sichuan Negroni, qu’elle porta à ses lèvres en relevant un peu le menton. Jacques regarda sa bouche se refermer sur le bord du verre. 
 Elle parlait d’une voix douce dans un anglais parfait. 
@@ -1200,7 +1200,7 @@ Ravi fit défiler le fichier.
 « Depends. »
 Il sourit, satisfait d’avoir répondu.
 L’approbation dépendait souvent de Melissa, une jeune chef de projet singapourienne. Elle avait une capacité remarquable à ne rien promettre. Lorsque Jacques lui posait une question directe, elle répétait une partie de la question, prenait une note, puis disparaissait.
-« So you still cannot access the environment », disait-elle.
+« So you still cannot access the environment? », disait-elle.
 « Yes. »
 « Okay. Let me check. »
 Elle ouvrait ensuite un calendrier, acceptait une réunion, en refusait une autre, puis partait chercher du thé. Jacques la voyait revenir dix minutes plus tard avec un gobelet fumant, et entrer dans une méditation studieuse devant des plannings dont elle seule possédait la clé. Jacques finit par comprendre que ces plannings étaient destinés à Jeff.
@@ -1255,7 +1255,7 @@ Jeff ne répondit pas. Le détail lui parut probablement secondaire.
 À son bureau, Jacques tenta de se connecter. Son mot de passe venait d’expirer.
 Ce fut à cette période qu’il commença à s’intéresser à l’intelligence artificielle, ou plus exactement à ce que l’on appelait alors le machine learning. Il y arriva moins par fascination pour l’avenir que par lassitude devant ce qui l’entourait. L’idée qu’un système puisse apprendre de ses erreurs lui procura un soulagement inattendu.
 Il tomba d’abord sur un article, puis sur une vidéo, enfin sur un cours en ligne proposé par Stanford. Le jeune professeur s’appelait Ethan Tran. 
-Jacques regarda la première leçon dans sa chambre. La qualité sonore était déplorable. À l’écran, Professor Tran dessinait des points, une droite, une erreur, puis montrait comment réduire cette erreur.
+Jacques regarda la première leçon dans sa chambre. La qualité sonore était déplorable. À l’écran, le professeur Tran dessinait des points, une droite, une erreur, puis montrait comment réduire cette erreur.
 Jacques lança la vidéo suivante.
 Il ne comprenait pas tout. Les difficultés, pourtant, finissaient par se laisser apprivoiser. Une équation ne répondait pas « should be okay ». 
 Le lendemain, dans la navette, il rouvrit ses notes. Le minibus avançait par à-coups. Son écriture tremblait sur la page. Il avait noté des mots dont il ne connaissait encore que les contours : fonction de coût, descente de gradient, classification, overfitting. 
@@ -1306,7 +1306,7 @@ Il tapota doucement le dossier de la chaise de Jacques.
 « And don’t use test data from Farid. »
 Cette fois, Jacques éclata de rire.
 Ravi partit vers les ascenseurs. Jacques resta seul quelques minutes dans l’open space. La lumière blanche tombait sur les bureaux vides. Une boîte de riz avait été abandonnée renversée sur un clavier. Sur l’écran de la salle de réunion, le fichier de suivi était resté projeté. Personne n’avait songé à éteindre le téléviseur.
-Jacques ouvrit son cours, et lança la vidéo suivante.
+Jacques ouvrit son cours et lança la vidéo suivante.
  
 
 Chapitre 16
@@ -1366,7 +1366,7 @@ Destination Heathrow **
 Il rentra à Paterson Hill un peu plus tôt que d’habitude.
 L’agent de sécurité du lobby lui adressa le même salut discret que les autres soirs. Dans l’ascenseur, Jacques regarda défiler les étages lumineux sur le panneau noir. 
 Il posa son sac sur le sol, ôta ses chaussures et resta debout au milieu du salon. Les grandes baies vitrées donnaient sur les tours et la végétation noire. En contrebas, quelques phares glissaient lentement entre les palmiers.
-Il ouvrit le réfrigérateur. Il y trouva une bouteille d’eau, dix bières Tiger, un citron desséché, un reste de sriracha, sa sauce préférée et un plat vietnamien à emporter, bon à jeter. Il referma la porte.
+Il ouvrit le réfrigérateur. Il y trouva une bouteille d’eau, dix bières Tiger, un citron desséché, un reste de sriracha, sa sauce préférée, et un plat vietnamien à emporter, bon à jeter. Il referma la porte.
 Puis il ouvrit l’armoire de la chambre. Les chemises pendaient sagement sur leurs cintres. Les costumes étaient encore sous housse. Dans un tiroir traînaient des reçus de taxi, des cartes de visite et quelques centaines de dollars singapouriens. Il s’assit sur le bord du lit.
 Chaque jour, il s’était levé dans cette chambre avant de prendre des taxis dans la moiteur du matin. Chaque jour, il avait traversé l’île pour travailler sous les néons. Il avait attendu mieux. Il avait cru mener une existence mobile, enviable même sous certains angles.
 Il prit son téléphone. Plusieurs messages l’attendaient. Dewi avait écrit dans l’après-midi :
@@ -1592,7 +1592,7 @@ Chapitre 21
 Cartographie *
 
 Trois jours passèrent sans événement notable. Le jeudi matin, à neuf heures vingt, son téléphone vibra.
-Le nom qui s’afficha ne lui dit pas grand-chose au premier regard. Puis il lui revint : Peter Lawson. Ils s’étaient croisés plusieurs années plus tôt sur un programme de refonte réglementaire. Peter était un homme très fin. Ses talents politiques lui avaient permis de passer du poste de Vice President à celui, très convoité, de Chief Technology Officer au sein de l’entité de trading d’un « supermajor » pétrolier.
+Le nom qui s’afficha ne lui dit pas grand-chose au premier regard. Puis il lui revint : Peter Lawson. Ils s’étaient croisés plusieurs années plus tôt dans le cadre d’un programme de refonte réglementaire. Peter était un homme très fin. Ses talents politiques lui avaient permis de passer du poste de Vice President à celui, très convoité, de Chief Technology Officer au sein de l’entité de trading d’un « supermajor » pétrolier.
 Jacques décrocha.
 « Jacques. C’est Peter Lawson. J’ai entendu dire que tu étais de retour à Londres. »
 « Oui. »
@@ -1675,7 +1675,7 @@ Elle referma la porte. Dans l’entrée se trouvaient deux vélos d’enfants, e
 « Je fais cuire un poulet, dit-elle. Il y a aussi des pommes de terre. »
 « Ça sent bon. »
 Stéphanie n’avait jamais su cuisiner, pensa-t-il avec amusement. D’ordinaire, elle préparait un buffet froid avec du houmous.
-Il posa son manteau sur une chaise. Elle alla à la cuisine, vérifia le four, ouvrit un tiroir, le referma. Jacques la regardait circuler. Quelque chose avait changé dans sa manière d’être là. Elle était plus directe, moins joueuse.
+Il posa son manteau sur une chaise. Elle alla dans la cuisine, vérifia le four, ouvrit un tiroir, le referma. Jacques la regardait circuler. Quelque chose avait changé dans sa manière d’être là. Elle était plus directe, moins joueuse.
 Ils burent un verre debout près du plan de travail. Elle lui demanda comment se déroulait sa recherche d’emploi. Il lui parla de son rendez-vous à Canary Wharf.
 Elle l’écouta sans l’interrompre, puis dit seulement :
 « Je ne comprends pas bien ce que c’est, l’IA. Tu sais, Jacques, je n’ai pas fait de longues études. »
@@ -1772,13 +1772,13 @@ Elle inclina la tête.
 Ils s’embrassèrent sur la joue. Il sentit l’odeur de sa peau, du shampoing, un reste de lessive sur son pull. Puis il ouvrit la porte et descendit l’escalier.
 Dehors, l’air était plus froid que la veille. Il rentra chez lui. Le soir, il sortit marcher. Il marcha longtemps et finit par se retrouver dans une rue plus basse, plus sale, où il allait jadis avec son ami Henri. Le club était toujours là avec sa façade noire, et ce croquis de femme enlacée à une barre métallique. Jacques s’arrêta. Il connaissait bien l’endroit.
 Il poussa la porte.
-À l’intérieur, rien n’avait changé. L’endroit n’était pas glauque du tout. Il ressemblait à un bar luxueux. Au fond se trouvait une estrade avec un DJ et deux barres.
+À l’intérieur, rien n’avait changé. L’endroit n’était pas glauque du tout. Il ressemblait à un bar luxueux. Au fond se trouvait une estrade avec un DJ et deux barres de pole dance.
 Un écran diffusait des défilés de mode.
 Il s’assit au bar. Le barman leva les yeux.
 « Une bière ? »
 « Oui. »
-On posa une pinte devant lui. Une fille monta sur scène. Elle passa son iPhone 11 au DJ. Immédiatement, les enceintes diffusèrent Nightcall de Kavinsky. La fille, visiblement russe ou ukrainienne, commença à se déhancher au rythme de la musique ; ses seins bondissaient. Puis elle monta sur le pole et se mit à tourner de plus en plus vite. En redescendant, elle écarta les jambes et décrocha sa minuscule culotte, puis continua de tourner. Jacques la regarda jusqu’à la fin du morceau, puis détourna les yeux.
-Puis la danseuse se rhabilla rapidement. Elle descendit de l’estrade et s’approcha de Jacques. Elle était blonde avec une large poitrine, très bien maquillée. Elle le regarda avec attention.
+On posa une pinte devant lui. Une fille monta sur scène. Elle passa son iPhone 11 au DJ. Immédiatement, les enceintes diffusèrent Nightcall de Kavinsky. La fille, visiblement russe ou ukrainienne, commença à se déhancher au rythme de la musique ; ses seins bondissaient. Puis elle monta sur la barre et se mit à tourner de plus en plus vite. En redescendant, elle écarta les jambes et décrocha sa minuscule culotte, puis continua de tourner. Jacques la regarda jusqu’à la fin du morceau, puis détourna les yeux.
+La danseuse se rhabilla rapidement. Elle descendit de l’estrade et s’approcha de Jacques. Elle était blonde avec une large poitrine, très bien maquillée. Elle le regarda avec attention.
 « Je vous connais, non ? »
 Jacques sourit.
 « C’est possible. »
@@ -1858,7 +1858,7 @@ Cette fois, Jacques rit pour de bon. Cela lui fit du bien.
 Elle but enfin une gorgée de soda.
 Jacques prit son temps.
 « Elle avait un anniversaire. Des gens qui la connaissent depuis longtemps. Elle a préféré y aller seule. »
-Lola fit oui de la tête, lentement.
+Lola fit signe que oui de la tête, lentement.
 « Oui, dit-elle. Je vois très bien. »
 Il se tut.
 Le soda de Lola arrivait à peine au fond du verre. Un videur passa derrière eux. La blonde parlait maintenant à un client japonais à moitié ivre.
@@ -1907,14 +1907,14 @@ Jacques tourna légèrement la tête.
 « Simplifier », répéta-t-il.
 Peter eut un sourire bref.
 « Pour l’instant, oui. »
-Le premier atelier commença à dix heures. La salle donnait sur l’eau sombre des bassins. Autour de la table se trouvaient six personnes. Un responsable opérations brut, une femme des nominations gaz, un homme des confirmations, quelqu’un du support applicatif, un manager au sourire prudent et une analyste du middle office. Jacques nota leurs noms avec application sur son cahier, puis les oublia presque aussitôt. Un seul resta.
+Le premier atelier commença à dix heures. La salle donnait sur l’eau sombre des bassins. Autour de la table se trouvaient six personnes. Un responsable des opérations sur le brut, une femme chargée des nominations gaz, un homme des confirmations, quelqu’un du support applicatif, un manager au sourire prudent et une analyste du middle office. Jacques nota leurs noms avec application sur son cahier, puis les oublia presque aussitôt. Un seul resta.
 Eleanor Price.
 Elle avait passé la quarantaine. Elle portait un tailleur bleu nuit qui venait sans doute d’une grande maison. À chacun de ses mouvements, une ligne se déplaçait, nette, souple, sans hésitation. Jacques observa les doigts de sa main gauche.
 Le début se passa bien. Chacun décrivit ses tâches, son périmètre, ses contraintes. Jacques écoutait, reformulait, revenait aux points de passage, demandait où naissait l’information, qui la reprenait, qui avait le droit de la corriger, qui décidait en réalité, et à partir de quel moment une erreur cessait d’être technique pour devenir politique. Il écrivait beaucoup, d’une écriture serrée, en colonnes étroites, déjà soucieux de la carte invisible qui se dessinait derrière les organigrammes.
 Eleanor expliqua la manière dont son équipe récupérait certains écarts avant l’envoi au terminal. Elle parlait avec économie, sans jargon inutile, en nommant les points de rupture avec une exactitude sèche. 
 À la pause, le ton changea déjà. Le manager s’approcha de Jacques avec cordialité.
 « Certaines équipes adorent dramatiser, dit-il à voix basse. Cela leur permet de rendre leur rôle plus central qu’il n’est. »
-À mesure que la chaîne se déployait sur le tableau, les inefficiences prenaient une forme concrète. Une même donnée était saisie trois fois dans trois outils dont aucun ne parlait correctement aux deux autres. Deux équipes contrôlaient la même chose sans le savoir. Ailleurs, personne ne contrôlait rien, mais chacun vivait dans la conviction qu’un autre le faisait. Une validation critique reposait depuis quatre ans sur un fichier Excel nommé FINAL_v2_REAL.xlsx, laissé par une femme partie en congé maternité, et dont la seule documentation consistait en treize lignes grises au bas d’un onglet masqué. 
+À mesure que la chaîne se déployait sur le tableau, les inefficiences prenaient une forme concrète. Une même donnée était saisie trois fois dans trois outils dont aucun ne parlait correctement aux deux autres. Deux équipes contrôlaient la même chose sans le savoir. Ailleurs, personne ne contrôlait rien, mais chacun vivait dans la conviction qu’un autre le faisait. Une validation critique reposait depuis quatre ans sur un fichier Excel nommé FINAL_v2_REAL.xlsx, laissé par une femme partie en congé de maternité, et dont la seule documentation consistait en treize lignes grises au bas d’un onglet masqué. 
 Vers dix-sept heures, alors que la fatigue commençait à dissoudre les prudences, Eleanor regarda longtemps le mur où s’entassaient les post-it et les flèches, puis demanda :
 « Vous allez vous en servir comment, exactement ? »
 Peter répondit avant Jacques.
@@ -1951,7 +1951,7 @@ La phrase tomba sans agressivité. Sous son apparence de respect, le savoir anci
 La désacralisation vint ainsi, par petites humiliations. Un savoir longtemps gardé dans les gestes et les réflexes se voyait demandé, extrait, décrit, puis transformé en documentation et en corpus. La connaissance quittait les corps. Ce qui avait protégé certains hommes devenait un matériau. 
 Un an passa. Tout avançait lentement, produisait peu, puis soudain avançait de nouveau. Jacques apprenait encore à distinguer les moments où l’intelligence humaine était réellement nécessaire de ceux où elle servait surtout à préserver un territoire. Il se surprenait parfois à être plus sévère qu’il ne l’avait été au début, puis, le lendemain, une exception absurde, un cas réel, une combinaison de contraintes oubliée par tous les schémas le ramenait à plus de prudence. 
 Puis l’incident éclata.
-Un cargo de fuel devait être chargé dans la nuit. En fin d’après-midi, une nomination incorrecte fut envoyée au terminal. La fenêtre horaire n’était pas la bonne, la quantité non plus. Le terminal refusa d’ouvrir la séquence de chargement sur cette base. À dix-neuf heures, le terminal refusa la séquence. À dix-neuf heures douze, le trader appela en hurlant. À dix-neuf heures vingt-six, trois équipes se renvoyaient déjà la faute avec fébrilité.
+Un cargo de fuel devait être chargé dans la nuit. En fin d’après-midi, une nomination incorrecte fut envoyée au terminal. La fenêtre horaire n’était pas la bonne, la quantité non plus. Le terminal refusa d’ouvrir la séquence de chargement sur cette base. À dix-neuf heures, le refus était acté. À dix-neuf heures douze, le trader appela en hurlant. À dix-neuf heures vingt-six, trois équipes se renvoyaient déjà la faute avec fébrilité.
 Peter appela Jacques.
 « Monte. Tout de suite. »
 Quand il arriva, la salle de crise était presque pleine. Le trader marchait de long en large, téléphone en main, la cravate desserrée, le visage rouge. Deux responsables opérations parlaient en même temps. Eleanor était là, un classeur ouvert devant elle, les deux mains posées à plat sur la table, comme pour empêcher physiquement la confusion de se lever davantage.
@@ -2031,14 +2031,15 @@ Ils ne s’étaient pourtant pas recontactés depuis son retour à Londres.
 Jacques rangea son téléphone sans répondre, ouvrit l’appartement, alluma la lumière du salon. Il ôta son manteau, le posa sur une chaise, puis resta quelques secondes debout au milieu de la pièce.
 Marc lui revint d’un bloc, avec sa silhouette étroite, son visage allongé, impérieux, sa tête en forme de statue de l’île de Pâques, et ses yeux verts où passait sans cesse une vivacité ironique.
 Il repensa à sa haine viscérale du bureau. Marc parlait de sa vie salariale avec le dégoût d’un homme condamné à une peine transitoire. Il se disait esclave de bureau avec une satisfaction théâtrale, mais réelle. Il préparait déjà sa sortie pendant que les autres demandaient des bonus, des promotions et des intitulés plus flatteurs.
-Un soir, il lui avait montré sur son ordinateur ses tableaux d’optimisation patrimoniale. Marc se targuait d’avoir acheté très tôt, au début de sa carrière de freelance, puis les uns après les autres, quatre studios à Paris, payés comptant, qu’il louait depuis. Il détaillait les loyers, les arbitrages fiscaux, les avantages respectifs de la location nue et de la location meublée. Il menait d’ailleurs une vie frugale avec une sorte de jubilation rancunière qu’il appelait lui-même sa vie de rat. Dépenser peu n’était pas chez lui une discipline. C’était une vengeance.
+Un soir, il lui avait montré sur son ordinateur ses tableaux d’optimisation patrimoniale. Marc se targuait d’avoir acheté, très tôt dans sa carrière de freelance, quatre studios à Paris, les uns après les autres, payés comptant, qu’il louait depuis.
+Il détaillait les loyers, les arbitrages fiscaux, les avantages respectifs de la location nue et de la location meublée. Il menait d’ailleurs une vie frugale avec une sorte de jubilation rancunière qu’il appelait lui-même sa vie de rat. Dépenser peu n’était pas chez lui une discipline. C’était une vengeance.
 Marc avait toujours été marginal. Il lisait beaucoup. Il retenait tout. Il simplifiait rageusement, puis rattachait ses simplifications à quelques principes fixes qu’il maniait avec une assurance croissante. Ses idées les plus contestables n’étaient jamais tout à fait bêtes.
 Jacques se rappela le « calculateur du coût d’une passe maritale » que Marc lui avait montré un soir, très fier, avec ce demi-sourire dont il accompagnait ses inventions les plus douteuses. L’arithmétique, il fallait le reconnaître, se tenait. Marc calculait ce que la relation de couple avait coûté à l’homme en intégrant les enfants nés de l’union, les cadeaux, les dépenses d’installation, les vacances, puis, en cas de séparation, le divorce, la pension alimentaire et les prestations compensatoires. Là où l’affaire devenait scabreuse, c’est qu’il divisait ensuite le total par le nombre supposé de rapports sexuels sur toute la durée de la relation. 
 « Tu vois », disait-il, « à la fin ça te donne le coût unitaire d’une passe avec ta femme. Dans toutes mes simulations, on ne passe jamais sous les deux mille euros. »
 Il avait même conçu plusieurs profils pour estimer le nombre de rapports cumulés. Le profil « Lapin », par exemple, reposait sur l’idée d’une décroissance exponentielle du désir conjugal : dans son modèle, la fréquence des rapports démarrait très fort, puis baissait de 20,6 % par an, si bien qu’elle se trouvait divisée exactement par deux tous les trois ans. « Statistiquement, disait-il, au bout de trois ans tu couches deux fois moins avec ta femme. Au bout de vingt ans, il ne reste presque plus rien. » Il y avait même ajouté une composante aléatoire, « stochastique », soulignait-il avec gourmandise. Il appelait cette conception de la vie conjugale la « formule avec abonnement » et l’opposait, avec une goujaterie tranquille, à la formule « sans abonnement », c’est-à-dire tarifée, avec une « gourgandine ».
 Jacques avait éclaté de rire en découvrant le calculateur. 
 « C’est sordide. C’est ça que tu branles au bureau ? » lui avait-il lancé en riant.
-Il alla jusqu’au réfrigérateur, en sortit une Foster’s, décapsula la bouteille, but une première gorgée, puis revint vers le canapé. L’email de Laure Coromines flottait encore dans son esprit. Marc, à présent, avait assez avancé dans sa logique pour devenir un objet d’article.
+Il alla jusqu’au réfrigérateur, en sortit une Foster’s, décapsula la bouteille, but une première gorgée, puis revint vers le canapé. Le courriel de Laure Coromines flottait encore dans son esprit. Marc, à présent, avait assez avancé dans sa logique pour devenir un objet d’article.
 Jacques reprit son téléphone et ouvrit YouTube.
 La chaîne existait bien. Elle s’appelait La Chaîne de la lucidité.
 Le titre de la vidéo mentionnait : « La fin du devoir conjugal en France ».
@@ -2057,7 +2058,7 @@ Bien sûr que les vies communes ne tenaient pas par la seule force des mots. Tou
 Sous l’écran, les commentaires défilaient. Des hommes le remerciaient d’avoir mis des mots sur leur expérience. Jacques leva les yeux vers le visage de Marc. C’était donc cela qu’il vendait maintenant : le retrait présenté comme une forme supérieure d’hygiène.
 Marc avait cessé de parler du couple comme d’un piège. Les hommes n’étaient pas trahis. Ils se trompaient seulement d’attente. 
 Marc continua quelques minutes encore. 
-Quand la vidéo s’arrêta, l’algorithme proposa aussitôt d’autres vidéos : Marc devant un champ de rizières, avec un titre : « Faut-il préférer une femme des villes ou une femme des champs ? » Une autre vidéo, titrée « Pourquoi je laisse l’Extrême Occident à ses vieilles femmes acariâtres », montrait, dans une image visiblement retouchée par IA, un Marc rajeuni, plus beau, plus musclé qu’en réalité, marchant au pied de la tour Eiffel devant une vieille femme en haillons, les cheveux blancs hirsutes.
+Quand la vidéo s’arrêta, l’algorithme proposa aussitôt d’autres vidéos : Marc devant un champ de rizières, avec un titre : « Faut-il préférer une femme des villes ou une femme des champs ? » Une autre vidéo, titrée « Pourquoi je laisse l’Extrême-Occident à ses vieilles femmes acariâtres », montrait, dans une image visiblement retouchée par IA, un Marc rajeuni, plus beau, plus musclé qu’en réalité, marchant au pied de la tour Eiffel devant une vieille femme en haillons, les cheveux blancs hirsutes.
 Jacques vida le fond de sa bière et alla se coucher. 
 
 Jacques répondit à la journaliste du Monde dès le lendemain matin. 
@@ -2075,7 +2076,7 @@ Jacques eut un léger mouvement de tête.
 « Oui. Une séance d’accompagnement. Une heure en visio. Quatre-vingt-dix-sept euros et quarante centimes. »
 « J’ai d’abord cru à une manière de m’éconduire. Alors j’ai répondu que j’étais journaliste, que je travaillais pour Le Monde, que je ne cherchais pas un conseil personnel mais un entretien pour mon article. Il m’a répondu qu’il ne faisait pas de différence, que son temps était son produit, et que toute personne souhaitant accéder à sa pensée devait passer par l’offre disponible. »
 Jacques sourit.
-« Oui, dit-il. Ça c’est bien lui. »
+« Oui, dit-il. Ça, c’est bien lui. »
 « À Singapour déjà, il disait qu’il fallait cesser de donner gratuitement ce qu’on pouvait monétiser. Il parlait de tout en ces termes. »
 « Vous étiez proches ? »
 « Non. Pas vraiment. On se voyait. On travaillait au même endroit. On dînait parfois, le week-end. »
@@ -2151,7 +2152,7 @@ Puis il s’éloigna dans le brouhaha du café, passa devant le comptoir, poussa
 Chapitre 25
 Les exceptions *
 
-Les mois passèrent. Le printemps arriva, et avec lui Londres se remit à vivre. Ce matin-là, Jacques était arrivé plus tôt qu’à l’accoutumée. Il lisait les emails envoyés pendant la nuit depuis Singapour, Chicago et Houston lorsque, à neuf heures vingt, Peter Lawson passa la tête dans son bureau.
+Les mois passèrent. Le printemps arriva, et avec lui Londres se remit à vivre. Ce matin-là, Jacques était arrivé plus tôt qu’à l’accoutumée. Il lisait les e-mails envoyés pendant la nuit depuis Singapour, Chicago et Houston lorsque, à neuf heures vingt, Peter Lawson passa la tête dans son bureau.
 « Tu as trente minutes ? Bloomberg vient à onze heures. Ils veulent parler d’IA, d’automatisation, de réduction des coûts. Le COO sera là, mais j’aimerais que tu assistes à l’échange. »
 Jacques leva les yeux.
 « Pourquoi moi ? »
@@ -2232,7 +2233,7 @@ Jacques prit le temps de boire une gorgée avant de répondre.
 Lyubov ouvrit enfin son carnet.
 « Donnez-moi un exemple. »
 Jacques hésita.
-« Prenez une chaîne de traitements sur une journée de trading. En théorie, tout est cadré. Les opérations tombent dans les systèmes, les confirmations partent, les flux sont générés, les écarts sont remontés. En pratique, il y a toujours une singularité, un horaire qui décale un fixing, quelque chose. Et quelque part, une femme ou un homme connaît la bonne lecture avant même d’avoir repris tout le dossier. Cette personne n’applique pas seulement une règle. Elle reconnaît une forme. »
+« Prenez une chaîne de traitements sur une journée de trading. En théorie, tout est cadré. Les opérations tombent dans les systèmes, les confirmations partent, les flux sont générés, les écarts sont remontés. En pratique, il y a toujours une singularité, un horaire qui décale un fixing, quelque chose de ce genre. Et quelque part, une femme ou un homme connaît la bonne lecture avant même d’avoir repris tout le dossier. Cette personne n’applique pas seulement une règle. Elle reconnaît une forme. »
 Lyubov écrivait vite.
 « Et l’automatisation ? »
 « Elle tente de capturer cette forme. »
@@ -2258,7 +2259,7 @@ Il la regarda sans répondre tout de suite. Il avait reconnu l’accent la veill
 « Londres choisit bien ses exils », dit-il enfin.
 Ils mangèrent encore quelques minutes en parlant cette fois de choses plus simples, du quartier, des heures absurdes de Canary Wharf, des restaurants qui survivaient à la mode. 
 Quand le serveur apporta l’addition, elle s’en saisit avec une célérité si naturelle qu’il n’eut même pas le temps de protester.
-« Non, dit-elle, c’est mon travail qui vous invite. Pas moi. »
+« Non, dit-elle. C’est mon travail qui vous invite. Pas moi. »
 « La distinction est commode. »
 « Elle m’évite de devoir accepter des invitations de traders qui se croient irrésistibles. »
 Il sourit.
@@ -2347,7 +2348,7 @@ Il la rejoignit près de la fenêtre. Dans la vitre, il aperçut leur reflet sup
 Cette fois elle sourit franchement.
 « Oui. »
 Sur le plan de travail, son téléphone vibra de nouveau. Son éditeur new-yorkais lui transférait une note générée pendant la nuit avec cette mention : can you humanize this?
-Elle regarda l’écran, puis le retourna face contre table.
+Elle regarda l’écran, puis le retourna face contre la table.
 Jacques l’aimait davantage depuis qu’il l’avait vue travailler ainsi. Non parce qu’elle était brillante, ni parce qu’elle résistait mieux qu’une autre à une époque nouvelle. Mais parce qu’elle avait conservé, au milieu de tout cela, le désir d’aller vérifier.
 
 
@@ -2357,7 +2358,7 @@ Chapitre 28
 Le test
 
 Deux années passèrent.
-Au travail de Jacques, une grande partie des opérations de trading était désormais automatisée. Dans la salle des marchés, les traders validaient parfois une exécution, ou suspendaient un ordre, puis retournaient à une oisiveté nerveuse faite de parties de cartes et de plaisanteries. Cela rappelait à Jacques son service militaire durant lequel sa seule activité avait consisté à jouer au tarot.
+Au travail de Jacques, une grande partie des opérations de trading était désormais automatisée. Dans la salle des marchés, les traders validaient parfois une exécution, ou suspendaient un ordre, puis retournaient à une oisiveté nerveuse faite de parties de cartes et de plaisanteries. Cela rappelait à Jacques son service militaire, durant lequel sa seule activité avait consisté à jouer au tarot.
 Les systèmes observaient le marché, rapprochaient des signaux, proposaient des transactions, puis réapprenaient d’eux-mêmes. L’organisation affichait des profits records. Jacques était tenu pour l’un des artisans de cette réussite. 
 Ce soir-là, il quitta Canary Wharf après vingt heures.
 La journée avait été longue. Sous les mots les plus prudents, la direction préparait un plan de réduction massive des effectifs. Dans l’atmosphère feutrée des salles de réunion, on parlait de redéploiement, de simplification, de convergence opérationnelle. 
@@ -2480,10 +2481,10 @@ Il avait mal dormi. Lyubov, elle, dormait plus lourdement depuis quelques jours.
 Le ciel était bas. Dans le hall, les écrans diffusaient les cours. Jacques traversa les portiques et monta jusqu’à son étage comme à l’accoutumée.
 À neuf heures douze, Peter lui écrivit.
 « Can you come by at 10? »
-Jacques regarda le message quelques secondes. Rien n’y signalait l’importance de l’entretien. Depuis plusieurs semaines, il savait pourtant qu’un moment de ce genre finirait par venir. La cartographie était terminée. Les derniers ateliers avaient eu lieu. Les plans de transition circulaient désormais entre la direction, les ressources humaines, et les responsables de plateforme. Là où, deux ans plus tôt, on parlait de transformation, on parlait maintenant d’exécution.
+Jacques regarda le message quelques secondes. Rien n’y signalait l’importance de l’entretien. Depuis plusieurs semaines, il savait pourtant qu’un moment de ce genre finirait par venir. La cartographie était terminée. Les derniers ateliers avaient eu lieu. Les plans de transition circulaient désormais entre la direction, les ressources humaines et les responsables de plateforme. Là où, deux ans plus tôt, on parlait de transformation, on parlait maintenant d’exécution.
 Il répondit simplement :
 « Yes. »
-Jusqu’à dix heures, il travailla à la synthèse d’un flux de confirmations devenu presque entièrement autonome. Toutes aboutissaient à la même conclusion. Les interventions humaines n’avaient pas disparu mais elles étaient devenues résiduelles, dispersées, plus difficiles à justifier en nombre. On n’avait plus besoin d’équipes entières. On avait juste besoin d’un petit nombre de personnes capables de surveiller, de corriger les exceptions et de porter la responsabilité juridique. 
+Jusqu’à dix heures, il travailla à la synthèse d’un flux de confirmations devenu presque entièrement autonome. Ses analyses aboutissaient toutes à la même conclusion. Les interventions humaines n’avaient pas disparu mais elles étaient devenues résiduelles, dispersées, plus difficiles à justifier en nombre. On n’avait plus besoin d’équipes entières. On avait juste besoin d’un petit nombre de personnes capables de surveiller, de corriger les exceptions et de porter la responsabilité juridique. 
 À dix heures précises, il frappa à la porte de Peter.
 Peter se leva pour lui serrer la main, ce qu’il ne faisait pas d’ordinaire lorsqu’ils se voyaient au bureau. 
 « Entre. »
@@ -2531,7 +2532,7 @@ Il remonta.
 L’après-midi s’écoula. Jacques assista à deux réunions. Il parla peu. À plusieurs reprises, il se surprit à regarder les autres avec une attention détachée, presque fraternelle. Beaucoup ignoraient encore que leur propre mise à l’écart avait déjà commencé sous des noms plus aimables. D’autres le savaient très bien. Les plus jeunes, surtout du côté data, semblaient avancer sans le moindre scrupule. Pour eux, l’intelligence se prouvait en supprimant l’inutile. Or une grande partie du monde humain leur apparaissait, au fond, sous cette catégorie.
 À dix-huit heures trente, il éteignit son ordinateur.
 Dans l’ascenseur, il regarda son reflet dans le métal brossé. Il ne paraissait ni accablé ni même réellement fatigué. Les grands événements de l’existence n’ont souvent sur les visages qu’un effet minime. 
-Dehors, le vent avait forci. Il prit la Jubilee line, changea, puis remonta à Hammersmith. En traversant la rue, il aperçut de loin la fenêtre éclairée de leur cuisine. Il pensa soudain à la manière dont Lyubov l’attendait parfois, assise avec une tisane, une main posée sans y penser sur son ventre encore plat, avec des grosses chaussettes qu’elle ne quittait plus désormais. Cette image lui serra la poitrine plus sûrement que l’entretien du matin.
+Dehors, le vent avait forci. Il prit la Jubilee line, changea, puis remonta à Hammersmith. En traversant la rue, il aperçut de loin la fenêtre éclairée de leur cuisine. Il pensa soudain à la manière dont Lyubov l’attendait parfois, assise avec une tisane, une main posée sans y penser sur son ventre encore plat, avec de grosses chaussettes qu’elle ne quittait plus désormais. Cette image lui serra la poitrine plus sûrement que l’entretien du matin.
 Quand il entra, il sentit d’abord une odeur de soupe de potiron et de pain grillé.
 Lyubov se trouvait dans la cuisine, en chaussettes, un gros gilet gris sur sa robe. Son ordinateur était fermé. Depuis qu’elle était enceinte, elle travaillait moins tard le soir.
 Elle leva les yeux vers lui.
@@ -2701,7 +2702,7 @@ Sur son téléphone, l’application de la clinique envoyait des notifications p
 Jacques leva les yeux.
 « Déjà ? »
 « C’est ce que dit l’application. »
-Elle posa le téléphone face contre table.
+Elle posa le téléphone face contre la table.
 Au bureau, ses trois derniers mois de mission s’étaient transformés en une suite d’opérations de clôture. Il remettait des documents, transférait des accès et expliquait à des équipes réduites comment surveiller les systèmes qui les avaient remplacées. On lui demandait encore son avis, mais cet avis arrivait désormais après les recommandations de la plateforme. La machine proposait le plan. Jacques corrigeait parfois un détail. Puis son commentaire entrait dans le corpus, devenait un exemple, et servait à améliorer la prochaine recommandation.
 Il était utile une dernière fois.
 Ce mardi-là, il arriva un peu plus tôt que d’habitude. Lyubov avait mal dormi. Il s’était levé sans bruit, avait préparé du café, était allé acheter des croissants, puis avait laissé un mot sur la table.
@@ -2731,9 +2732,9 @@ Son sponsor. Le mot lui donna envie de rire.
 Il s’écarta pour ne pas bloquer l’entrée. Les autres passaient autour de lui. Personne ne voulait voir de trop près ce qui pouvait lui arriver demain. Jacques sortit son téléphone et appela Peter.
 La première fois, il tomba sur la messagerie. La seconde aussi.
 Il écrivit :
-My pass has been disabled.
+« My pass has been disabled. »
 La réponse arriva cinq minutes plus tard.
-Can you wait in reception? I’m checking.
+« Can you wait in reception? I’m checking. »
 Il attendit debout près des fauteuils bas. Sur les écrans du hall, les courbes de marché glissaient rapidement. Entre deux chiffres, une vidéo interne présentait la nouvelle stratégie d’entreprise. Des visages souriants y évoquaient l’agilité, la responsabilisation et l’intelligence distribuée. Une phrase revint plusieurs fois : freeing people to focus on what matters.
 Peter arriva au bout de vingt minutes. Il serra la main de Jacques, puis jeta un regard vers l’agent de sécurité.
 « Let’s have a coffee. »
@@ -2775,7 +2776,7 @@ Peter dit :
 « Je peux te recommander. Je le ferai très volontiers. »
 « À qui ? »
 Peter ne trouva rien à répondre.
-Vers dix heures, une jeune femme des ressources humaines descendit avec un sac en papier renforcé. À l’intérieur se trouvaient un carnet, un chargeur, deux stylos, un livre qu’il avait oublié depuis des mois, et une photographie imprimée de l’échographie que Lyubov lui avait donnée pour son bureau. La jeune femme lui fit signer la réception sur une tablette.
+Vers dix heures, une jeune femme des ressources humaines descendit avec un sac en papier renforcé. À l’intérieur se trouvaient un carnet, un chargeur, deux stylos, un livre qu’il avait oublié depuis des mois, et une photographie imprimée de l’échographie que Lyubov lui avait donnée pour son bureau. La jeune femme lui fit signer un reçu sur une tablette.
 « The device will be wiped remotely », dit-elle.
 « Lequel ? »
 « Your laptop. »
@@ -2785,11 +2786,11 @@ Il signa. Son doigt traça sur le verre une signature déformée. La tablette ac
 Dehors, le vent remontait entre les tours.
 Jacques marcha sans direction pendant un moment. Il aurait dû appeler Lyubov. Il ne le fit pas tout de suite. Il savait qu’elle travaillait sur un article consacré aux agents de recherche financière. Elle lui avait expliqué la veille que certains fonds ne lisaient plus les publications des analystes. Leurs systèmes absorbaient les textes, les conférences et les rumeurs, puis produisaient directement des positions. La nouvelle n’était plus lue. Elle était digérée.
 Il finit par lui écrire.
-Je rentre plus tôt.
+« Je rentre plus tôt. »
 Elle répondit aussitôt.
-Tout va bien ?
+« Tout va bien ? »
 Il regarda longtemps la question.
-Oui. Je t’expliquerai.
+« Oui. Je t’expliquerai. »
 Il reprit le métro en sens inverse, dans une rame à demi vide. À cette heure, Londres appartenait aux retraités, aux étudiants, aux livreurs et aux chômeurs. Il tenait le sac sur ses genoux. À travers le papier, il sentait l’angle dur du cadre de l’échographie.
 Quand il arriva à Hammersmith, Lyubov était encore en réunion. Il la vit sur l’écran, dans le salon, le visage concentré, les cheveux attachés, un coussin derrière le dos. Elle leva les yeux vers lui sans interrompre la conversation. Il posa le sac dans l’entrée et alla dans la cuisine.
 Il se servit un verre d’eau.
@@ -2968,9 +2969,9 @@ Jacques reprit :
 « Oui. »
 « Où vas-tu les obtenir ? »
 Jacques ferma l’application.
-« Dans les hôpitaux. Dans les services de maternité. Il faudrait un vrai protocole, des consentements et de l’anonymisation. Je pensais à St Thomas pour commencer. »
+« Dans les hôpitaux. Dans les services de maternité. Il faudrait un vrai protocole, des consentements et de l’anonymisation. Je pensais à St Thomas’ pour commencer. »
 Lyubov le fixa.
-« St Thomas ? »
+« St Thomas’ ? »
 « Ils ont une maternité importante. Ils voient passer des familles différentes, des situations diverses. Si Naptio doit être utile, il ne peut pas apprendre seulement sur des vidéos trouvées en ligne. Il lui faut des données réelles, annotées avec des professionnels. »
 Elle se leva pour retourner aux œufs.
 « Tu entends ce que tu dis ? »
@@ -3628,7 +3629,7 @@ Vivian demanda :
 « Quelle préférence ? »
 Sa voix n’avait pas changé. Jacques l’admira pour cela.
 Eleanor répondit sans consulter ses notes.
-« Une fois non participative. Droits d’information standards. Siège d’observateur au board. Droit de pro rata sur le prochain tour. Et une réserve d’options portée à dix pour cent avant closing. »
+« Une préférence de liquidation 1x non participative. Droits d’information standards. Droits d’information standards. Siège d’observateur au board. Droit de pro rata sur le prochain tour. Et une réserve d’options portée à dix pour cent avant closing. »
 Adrian leva enfin les yeux.
 « Donc la dilution réelle n’est pas dix-huit pour cent. »
 Simon Vale eut un sourire doux.
@@ -3796,7 +3797,7 @@ Materia était devenue le nom de cette époque.
 La société avait d’abord été reçue avec scepticisme, puis avec fascination, puis avec cette forme d’évidence rétrospective que les marchés accordent aux vainqueurs. Ses machines parlaient moins que les autres. Mais elles savaient agir. Elles apprenaient la maison, l’usine, l’hôpital, la route, l’escalier. On les voyait dans des vidéos préparer une omelette, porter un vieillard, réparer une fuite, trier des déchets ou ranger une chambre d’enfant avec une lenteur attentive.
 Jacques observait cela avec trouble. Les modèles de langage de la décennie précédente avaient imité la pensée par la langue. Les nouveaux systèmes imitaient ce que l’on trouve dans le monde animal dépourvu de langage : l’ajustement du corps au réel.
 Thomas grandissait au milieu d’elles.
-À l’école, les enfants utilisaient des tuteurs adaptatifs. Les cahiers avaient disparu. Chaque élève avait un compagnon d’apprentissage qui suivait ses progrès, recomposait les exercices, ralentissait les explications, inventait des exemples, corrigeait les fautes. Les machines savaient faire preuve de patience. Elles ne soupiraient pas. Elles n’avaient pas d’autre enfant à aller chercher.
+À l’école, les enfants utilisaient des tuteurs adaptatifs. Les cahiers avaient disparu. Chaque élève avait un compagnon d’apprentissage qui suivait ses progrès, recomposait les exercices, ralentissait les explications, inventait des exemples, corrigeait les erreurs. Les machines savaient faire preuve de patience. Elles ne soupiraient pas. Elles n’avaient pas d’autre enfant à aller chercher.
 Un soir de novembre, Thomas revint de l’école avec un dessin plié en quatre dans la poche de son manteau.
 Lyubov était encore au bureau. Jacques avait préparé des pâtes et coupé une pomme en quartiers. Thomas mangeait lentement, distrait par une petite araignée mécanique qui se déplaçait sur l’écran de la tablette. Elle montrait comment les animaux répartissent leur poids sur plusieurs pattes. Lorsqu’il touchait l’une des articulations, la simulation changeait, et l’araignée tombait, puis se relevait autrement.
 Jacques posa la main sur l’écran.
