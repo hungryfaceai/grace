@@ -63,20 +63,20 @@ Chapitre 22 Le dimanche **	111
 Chapitre 23 Nightcall **	117
 Chapitre 24 La profanation **	123
 Chapitre 25 Vous vous trompez de misère **	131
-Chapitre 26 Lyubov, Bloomberg **	139
-Chapitre 27 Mayfair *	143
-Chapitre 28 Le matin des marchés	147
-Chapitre 29 Le test	151
-Chapitre 30 Le périmètre	159
-Chapitre 31 La première échographie	165
-Chapitre 32 L’escale **	171
-Chapitre 33 Le badge	175
-Chapitre 34 Naptio	185
-Chapitre 35 La naissance	193
-Chapitre 36 Le congé	203
-Chapitre 37 Sentiens	215
-Chapitre 38 Le capital	225
-Chapitre 39 Le front	235
+Chapitre 26 Les exceptions **	139
+Chapitre 27 Lyubov, Bloomberg **	143
+Chapitre 28 Le matin des marchés	149
+Chapitre 29 Le test	153
+Chapitre 30 Le périmètre	161
+Chapitre 31 La première échographie	167
+Chapitre 32 L’escale **	173
+Chapitre 33 Le badge	177
+Chapitre 34 Naptio	187
+Chapitre 35 La naissance	195
+Chapitre 36 Le congé	205
+Chapitre 37 Sentiens	217
+Chapitre 38 Le capital	227
+Chapitre 39 Le front	237
 
 
 
@@ -1892,7 +1892,7 @@ Jacques leva les yeux.
 « Quel âge il a ? »
 « Onze ans. »
 Elle soupira.
-« Il pense qu'il va devenir footballeur professionnel. »
+« Il pense qu’il va devenir footballeur professionnel. »
 Puis elle rangea le téléphone et se tourna vers Jacques.
 « Ce sont les pires, celles qu’on n’arrive pas à appeler “ex” franchement. »
 Il leva les yeux vers elle.
@@ -1921,14 +1921,18 @@ Dehors, l’air était très froid.
 Sophie rentrait de son anniversaire dans une autre partie de la ville. Elle avait revu une femme qu’elle connaissait depuis vingt ans, qui l’avait vue célibataire, puis mariée, enceinte, deux fois, puis trompée, séparée, divorcée, amaigrie, debout encore. 
 Elle avait eu raison de ne pas l’emmener.
 Quand il arriva chez lui, il faisait presque nuit. L’appartement était froid. Il alluma la lampe du salon, posa ses clés, resta debout un moment sans retirer son manteau.
-Vers vingt-deux heures, son téléphone vibra.
-Un message de Sophie.
-« Bien rentré ? »
-« Oui. Bonne soirée. »
-Elle écrivit presque aussitôt :
-« Merci. Les enfants rentrent demain. Leur père les garde ce soir finalement. »
-Il ne sut pas quoi répondre à cela. Il posa le téléphone sur la table basse.
-Avant de se coucher, il regarda son écran une dernière fois. Aucun nouveau message.
+Vers vingt-deux heures, son téléphone sonna. C’était Sophie.
+« Tu es bien rentré ? »
+« Oui. »
+« Tu m’en veux ? »
+« Non. »
+« Tu es resté chez toi ? »
+« Oui. »
+« Les enfants rentrent demain. Leur père les garde ce soir finalement. »
+Il ne sut pas quoi répondre à cela. 
+« Bonne soirée. » 
+Il raccrocha et posa le téléphone sur la table basse.
+Avant de se coucher, il regarda son écran une dernière fois. Il n’y avait aucun nouveau message.
 Il se déshabilla, éteignit, se glissa dans son lit. Dans l’appartement voisin, il entendait un couple faire l’amour. Puis tout se calma.
 Le lendemain matin, il se réveilla tôt. Il resta quelques minutes sur le dos à regarder le plafond. Le week-end était terminé.
 
@@ -2111,7 +2115,7 @@ Sous l’écran, il y avait 5 373 commentaires. Des hommes le remerciaient d’a
 Simon continua quelques minutes encore, puis arrêta la vidéo. Elle durait 23 minutes et 49 secondes. 
 L’algorithme proposa aussitôt d’autres vidéos : Simon devant un champ de rizières, avec un titre : « Faut-il préférer une femme des villes ou une femme des champs ? ». Il démarra la vidéo : on y voyait Simon marcher sur une plage déserte à sept heures du matin, brandissant un selfie-stick. Il assénait :
 « Je ne suis pas masculiniste, au contraire je suis féministe. Je veux simplement donner aux femmes ce qu’elles recherchent : l’amour avec un grand A comme Argent. Elles et moi, au fond, on recherche la même chose. On devrait pouvoir s’entendre. Nous recherchons un nid pour loger notre petit oiseau et elles s’attendent à de l’argent en retour. Je ne vois pas où se trouve le problème. Mais je veux payer le juste prix. »
-Une autre vidéo, titrée « Pourquoi je laisse l’Extrême-Occident à ses femmes acariâtres », montrait, dans une image visiblement retouchée par intelligence artificielle, un Simon rajeuni, plus beau, plus musclé qu’en réalité, vêtu d’un costume bleu nuit et marchant au pied de la tour Eiffel devant une vieille femme en haillons aux cheveux blancs hirsutes. Une autre vidéo était sobrement intitulée « Pourquoi les gourgandines valent plus que vos mères ». La dernière avait pour titre : « L’entrée des artistes ». Jacques décida de ne pas s’y hasarder. Il vida le fond de sa bière et alla se coucher. 
+Une autre vidéo, titrée « Pourquoi je laisse l’Extrême-Occident à ses femmes acariâtres », montrait, dans une image visiblement retouchée par intelligence artificielle, un Simon rajeuni, plus beau, plus musclé qu’en réalité, vêtu d’un costume bleu nuit et marchant au pied de la tour Eiffel devant une vieille femme en haillons aux cheveux blancs hirsutes. Une autre vidéo était sobrement intitulée « Pourquoi les gourgandines valent plus que vos mères ». La dernière avait pour titre : « L’entrée des artistes ». Jacques renonça à s’y hasarder. Il vida le fond de sa bière et alla se coucher. 
 Il répondit à la journaliste du Monde dès le lendemain matin. 
 Le vendredi suivant, Jacques retrouva Camille Varenne dans un café de Kensington, à deux rues de High Street. Quand Camille entra, Jacques la reconnut aussitôt à la manière qu’elle eut de balayer la salle d’un seul regard. Elle était beaucoup plus jeune qu’il ne se l’était imaginée. Elle devait avoir tout juste trente ans. Ses cheveux étaient d’une couleur rouge sombre, elle portait un pantalon moulant et une veste de cuir noir qui lui arrivait au nombril. Dessous, il aperçut un T-shirt à l’effigie de Rag’n’Bone Man. Elle ôta sa veste et Jacques s’aperçut que son bras gauche portait un large tatouage qui lui couvrait l’épaule jusqu’à la main. Le tatouage, très fin, représentait une lionne au milieu de fleurs.
 Elle s’assit en face de lui et le remercia d’être venu, puis sortit de son sac un iPhone 15 et un stylo.
@@ -2205,7 +2209,7 @@ Puis il s’éloigna dans le brouhaha du café, passa devant le comptoir, poussa
  
 
 Chapitre 26
-Lyubov, Bloomberg **
+Les exceptions **
 
 Les mois passèrent. Le printemps arriva, et avec lui Londres se remit à vivre. Ce matin-là, Jacques était arrivé plus tôt qu’à l’accoutumée. Il lisait les nombreux e-mails envoyés pendant la nuit depuis Chicago, Houston et Singapour lorsque, à neuf heures vingt, Peter Lawson passa la tête dans son bureau.
 « Tu as trente minutes ? Bloomberg vient à onze heures. Ils veulent parler d’intelligence artificielle. Le COO sera là, mais j’aimerais que tu assistes à l’échange. »
@@ -2254,53 +2258,68 @@ Puis il répondit :
  
 
 Chapitre 27
-Mayfair *
+Lyubov, Bloomberg **
 
-Le lendemain, à dix heures dix-sept, Lyubov lui écrivit.
+Le lendemain, à dix heures, Lyubov lui écrivit.
 « Accepteriez-vous que nous nous retrouvions à Mayfair, chez Coya, pour un brunch ? Vers treize heures, si cela vous convient. »
-Jacques répondit presque aussitôt que oui.
-Il aimait beaucoup ce restaurant péruvien à la mode. Les prix y étaient absurdes, mais il savait que les règles déontologiques de Bloomberg obligeaient les journalistes à régler eux-mêmes l’addition totale.
-À midi, il quitta Canary Wharf avec hâte. Dans la Jubilee line, les voyageurs se tenaient serrés sous la lumière blafarde. Il s’agissait, se répétait-il, d’un simple échange professionnel. Pourtant, avant de partir, il était passé aux toilettes du bureau pour changer de chemise, enfiler la veste qu’il laissait d’ordinaire sur son portemanteau, et troquer ses baskets Asics contre une paire de souliers plus élégants.
-Lorsqu’il remonta à Bond Street, le ciel était clair. Un soleil mince courait sur les façades de Mayfair et faisait luire les vitres des boutiques. Des touristes hésitaient au bord des passages cloutés. Jacques remonta la rue avec un léger détour inutile, simplement pour arriver à l’heure exacte.
-À l’intérieur, le restaurant était plongé dans une pénombre fraîche. Le bois sombre, les banquettes basses, les grands miroirs, les serveurs en veste claire, tout concourait à produire une impression de luxe calculé. Une odeur de citron vert, de coriandre et de viande grillée flottait dans l’air.
+Jacques répondit aussitôt. Il aimait beaucoup ce restaurant péruvien à la mode. Les prix y étaient absurdes.
+À midi, il quitta Canary Wharf avec hâte. Avant de partir, il était repassé à son bureau pour enfiler la veste qu’il laissait d’ordinaire sur son portemanteau, et troquer sa paire de baskets Asics contre une paire de mocassins Tod’s. Il s’agissait, se répétait-il, d’un simple échange professionnel. 
+La Jubilee Line était moins bondée qu’à l’accoutumée. Lorsqu’il remonta à Bond Street, le ciel était clair. Un soleil mince courait sur les façades de Mayfair et faisait luire les vitres des boutiques. Des touristes hésitaient au bord des passages cloutés. Jacques remonta la rue en faisant un léger détour, simplement pour arriver à l’heure exacte.
+À l’intérieur, le restaurant était plongé dans une demi-pénombre. Les panneaux de bois sculptés, les miroirs aux reflets dorés et quelques plantes tropicales composaient un décor qui évoquait davantage un club privé qu’un restaurant. Des suspensions de cuivre diffusaient une lumière ambrée sur les banquettes basses. Une odeur de citron vert, de coriandre, de charbon de bois et de viande grillée flottait dans l’air.
 Lyubov était déjà là.
-Elle s’était installée à une petite table au fond de la salle, sous une applique de cuivre. Elle portait une chemise crème, une jupe sombre et une veste légère posée sur le dossier de sa chaise. Lorsqu’elle le vit approcher, elle leva la main avec un petit sourire qui le troubla.
+Elle s’était installée à une petite table au fond de la salle, sous une applique de cuivre. Elle portait une blouse crème, une jupe sombre et une veste légère posée sur le dossier de sa chaise. Lorsqu’elle le vit approcher, elle leva la main avec un petit sourire complice.
 « Merci d’être venu. »
 Il s’assit en face d’elle.
 « Merci pour l’invitation. »
 Elle referma le menu qu’elle feuilletait.
 « J’espère que ce n’est pas trop loin de votre bureau. »
 « Un peu, si. Mais Coya vaut le détour. »
-Elle sourit encore. Un serveur vint prendre leur commande. Elle choisit de l’eau pétillante, un ceviche et une assiette à partager. Jacques commanda la même chose, avec un second plat qu’il connaissait déjà, un poulet mariné qu’il savait excellent. Lorsqu’ils furent de nouveau seuls, elle sortit le petit carnet noir de la veille, qu’elle posa entre eux.
-« Je vous rassure, dit-elle, je ne vais pas vous faire un interrogatoire. J’aimerais surtout comprendre quelque chose. Hier, lorsque vous avez parlé des exceptions, vous avez été le seul à répondre ouvertement. Chez vous, c’était concret. »
+Un serveur vint prendre leur commande. Elle choisit de l’eau pétillante, un ceviche de bar au lait de tigre, puis une assiette d’anticuchos à partager. Jacques commanda la même chose, avec des brochettes de poulet mariné aux épices.
+Lorsqu’ils furent de nouveau seuls, elle sortit le petit carnet noir de la veille, qu’elle posa entre eux.
+« Quel est votre rôle exactement chez Albion Energy ? »
+« Je travaille auprès de l’équipe de direction sur les sujets d’automatisation. Je cartographie les processus de trading pour voir ce qui peut être rationalisé ou confié à des systèmes. » 
+« Comment êtes-vous arrivé dans ce métier ? » 
+Jacques réfléchit quelques secondes.
+« J’ai étudié les mathématiques et la physique. J’ai fait un peu de recherche en physique statistique et en mécanique des fluides quand j’étais plus jeune. Puis je me suis retrouvé dans la finance, un peu par hasard. »
+« Par hasard ? »
+« J’avais besoin d’un travail. Une banque m’a proposé un poste. Je me suis dit que j’y resterais deux ou trois ans. »
+« Et finalement ? »
+« Cela fait presque vingt ans. »
+« Je vous rassure, dit-elle, je ne vais pas vous faire un interrogatoire. J’aimerais surtout comprendre quelque chose. Hier, lorsque vous avez parlé des exceptions, vous avez été le seul à répondre ouvertement. Chez vous, c’était plus concret. »
 Jacques haussa légèrement les épaules.
-« C’est plus facile de parler abstraitement. On se protège mieux. »
-« De quoi ? »
-« De ce qu’on fait réellement aux gens. »
+« C’est plus facile pour eux de parler de stratégie, d’investissement ou de technologie. Ce sont des sujets plus confortables. Personne ne conteste qu’il faut rester compétitif ou adopter les nouveaux outils. »
+« Et les exceptions ? »
+« Les exceptions, ce sont des personnes, des équipes, des métiers. À partir du moment où l’on parle concrètement de ce qui va changer, ou disparaître, la conversation devient plus compliquée pour l’équipe de direction. »
+« Pourquoi ? »
+Jacques prit quelques secondes avant de répondre.
+« Parce qu’on cesse de parler de systèmes. On commence à parler de gens. »
 Elle le regarda quelques secondes sans écrire un mot.
 « Voilà. C’est cela qui m’intéresse. »
-Le serveur apporta les cafés. La tasse de Lyubov était minuscule. Elle y versa le sucre sans le remuer tout de suite.
 « Quand une entreprise comme la vôtre parle d’automatisation, dit-elle, qu’est-ce qui disparaît en premier ? »
-Jacques prit le temps de boire une gorgée avant de répondre.
-« Pas les postes les plus visibles. Pas les dirigeants qui annoncent les projets. Pas les équipes qui les pilotent. Ce qui disparaît d’abord, ce sont les gestes de rattrapage. Les vérifications informelles. Les personnes qui savent qu’un chiffre est faux avant même d’avoir compris pourquoi. »
-Lyubov ouvrit enfin son carnet.
-« Donnez-moi un exemple. »
+Jacques prit le temps de réfléchir.
+« Pas les postes les plus visibles. Pas même les experts. Ce qui disparaît d’abord, ce sont les tâches de rattrapage. Les rapprochements manuels entre deux systèmes. Les petites corrections quotidiennes qui empêchent les problèmes de devenir des incidents. »
+Lyubov ouvrit son carnet.
+« C’est-à-dire ? »
+« Les personnes qui vivent avec les exceptions. Dans beaucoup d’entreprises, il existe des gens qui savent reconnaître une anomalie avant même de pouvoir l’expliquer. Ils ont vu le même problème dix fois sous des formes différentes. Ils connaissent les raccourcis. Quand on automatise, c’est ce savoir-là qu’on essaie de capturer en premier. »
+« Et on y arrive ? »
+« Oui, souvent suffisamment pour supprimer le travail. »
+« Vous en parlez comme d’un phénomène naturel. Pourtant c’est aussi votre travail. »
 Jacques hésita.
-« Prenez une chaîne de traitements sur une journée de trading. En théorie, tout est cadré. Les opérations tombent dans les systèmes, les confirmations partent, les flux sont générés, les écarts sont remontés. En pratique, il y a toujours une singularité, un horaire qui décale un fixing, quelque chose de ce genre. Et quelque part, une femme ou un homme connaît la bonne lecture avant même d’avoir repris tout le dossier. Cette personne n’applique pas seulement une règle. Elle reconnaît une forme. »
+« Donnez-moi un exemple », dit-elle.
+« Prenez une chaîne de traitements sur une journée de trading. En théorie, tout est cadré. Les opérations tombent dans les systèmes, les confirmations partent, les flux sont générés, les écarts sont remontés. En pratique, il y a toujours une singularité. Celui qui intervient n’applique pas seulement une règle. Il reconnaît une forme. »
 Lyubov écrivait vite.
 « Et l’automatisation ? »
 « Elle tente de capturer cette forme. »
-Le ceviche arriva. Les morceaux de poisson blanc luisaient dans le lait de tigre, avec des rondelles d’oignon rouge, du maïs géant et de fines herbes. Lyubov posa son stylo.
+Le ceviche arriva. Les morceaux de poisson blanc luisaient dans le lait de tigre, avec des rondelles d’oignon rouge, du maïs géant et de fines herbes.
 Elle prit sa fourchette, goûta, puis leva vers lui un regard approbateur.
 « C’est très bon. »
-Il acquiesça. Il aurait pu sourire davantage, se montrer plus aimable, entrer dans l’aisance que ce genre de déjeuner autorise. Pourtant quelque chose, en sa présence, l’incitait au contraire à la précision. 
+Il acquiesça.
 « Et vous, demanda-t-il, pourquoi ce sujet ? »
 Elle essuya le bord de ses lèvres avec sa serviette.
-« Parce que tout le monde parle de l’intelligence artificielle comme d’une promesse technique, alors qu’il s’agit aussi d’un déplacement de pouvoir. Je voulais voir si, derrière les slogans, quelqu’un acceptait encore de décrire ce qui se passe. »
+« Parce que j’entends les mêmes phrases partout. Transformation, efficacité, productivité, adoption. À force, on ne sait plus très bien ce qu’elles recouvrent. Hier, vous avez été le premier à parler de ce que l’outil déplace. »
 « Et vous avez trouvé ? »
-« Chez vous, peut-être. Pas encore dans mon article. »
+« Chez vous, peut-être. »
 Le serveur apporta le second plat. Le poulet fumait encore. 
-Lyubov referma son carnet, cette fois pour de bon.
 « Vous n’êtes pas anglais. »
 « Non. »
 « Français ? »
@@ -2308,36 +2327,41 @@ Lyubov referma son carnet, cette fois pour de bon.
 Elle hocha la tête, comme si elle avait deviné depuis le début.
 « Et vous ? » demanda Jacques.
 « Russe. »
-Il la regarda sans répondre tout de suite. Il avait reconnu l’accent la veille, mais le fait de l’entendre le dire changeait la nature de leur échange. Elle ne précisa ni la ville ni les circonstances. Il ne posa pas la question.
-« Londres choisit bien ses exils », dit-il enfin.
-Ils mangèrent encore quelques minutes en parlant cette fois de choses plus simples, du quartier, des heures absurdes de Canary Wharf, des restaurants qui survivaient à la mode. 
-Quand le serveur apporta l’addition, elle s’en saisit avec une célérité si naturelle qu’il n’eut même pas le temps de protester.
+Il avait reconnu l’accent la veille, mais le fait de l’entendre le dire changeait la nature de leur échange.
+« J’ai grandi à Moscou. J’ai d’abord travaillé chez Platts, puis chez Bloomberg qui m’a transféré à Londres il y a onze ans. Tenez, je vais vous raconter une blague. Un jour, à Moscou, dans une conférence sur l’aluminium, j’ai posé une question à un CEO devant un parterre de journalistes. Je me suis présentée : Lyubov, Bloomberg. Il m’a répondu : “Oui, je sais que vous êtes Bloomberg. Mais pour quel média travaillez-vous ?” »
+Jacques s’éclaffa.
+Le serveur revint débarrasser les assiettes.
+« Un dessert ? » demanda Lyubov.
+Elle parcourut rapidement la carte. Son doigt s’arrêta sur une ligne.
+« Le fondant au chocolat avec glace au lucuma. Je ne connais personne qui soit venu ici sans le commander. Et prenons aussi deux Pisco Sour, d’accord ? »
+Jacques sourit.
+« Vous venez souvent ? »
+« C’est l’un des avantages de mon métier. J’emmène souvent les gens au restaurant. »
+Quand le serveur apporta l’addition, elle s’en saisit avec une célérité si naturelle qu’il n’eut même pas le temps de protester. Cent soixante-dix-sept livres. Service compris.
 « Non, dit-elle. C’est mon travail qui vous invite. Pas moi. »
 « La distinction est commode. »
 « Elle m’évite de devoir accepter des invitations de traders qui se croient irrésistibles. »
 Il sourit.
 « J’essaierai de ne pas me vexer d’être rangé dans la catégorie avant d’y avoir figuré. »
-Cette fois, elle rit franchement. Son rire était bref, sans apprêt, et très jeune.
-Ils sortirent ensemble. L’air de la rue leur parut plus vif après la pénombre du restaurant. Le soleil tenait encore sur les pierres claires de Mayfair. Un livreur à vélo passa entre deux taxis. On entendait au loin la rumeur continue d’Oxford Street, assourdie par les façades.
+Cette fois, elle rit franchement. Son rire était bref et sans apprêt.
+Ils sortirent ensemble. L’air de la rue leur parut plus vif après le cocktail. On entendait au loin la rumeur continue d’Oxford Street, assourdie par les façades.
 Ils marchèrent quelques pas côte à côte sans but précis.
 « Votre phrase sur les exceptions, dit-elle, je crois que je vais la garder. »
 « Laquelle ? »
-« Les personnes qui tiennent ensemble les exceptions. »
+« Les personnes qui vivent avec les exceptions. »
 Jacques ne répondit pas tout de suite. Il regardait devant lui, les mains dans les poches.
-« Gardez-la si vous voulez. Mais ce n’est pas une phrase brillante. C’est seulement vrai. »
-« C’est pour cela que je la garderai. »
-Ils s’arrêtèrent à l’angle de la rue. Elle devait repartir dans la City. Lui pouvait encore regagner Canary Wharf avant la réunion de quinze heures qu’il redoutait déjà.
+« Gardez-la si vous voulez. »
+Ils s’arrêtèrent à l’angle de la rue. Elle devait repartir dans la City. Lui pouvait encore regagner Canary Wharf avant la réunion de seize heures qu’il redoutait déjà.
 « Merci encore », dit-elle.
 Puis, avec une simplicité qui le désarma :
 « J’étais contente de vous voir hors de la salle de réunion. »
 Il la regarda.
-« Moi aussi », répondit-il.
+« Moi aussi. »
 Elle le salua d’un léger mouvement de tête, puis s’éloigna. Jacques la suivit des yeux.
 L’après-midi lui parut plus médiocre que d’habitude. À plusieurs reprises, il consulta son téléphone.
-Le soir, vers vingt et une heures, il était rentré depuis peu. Il avait ôté sa veste et ouvert son ordinateur sur la table du salon. Son téléphone vibra.
+Le soir, vers vingt et une heures, il venait d’ôter sa veste et d’ouvrir son ordinateur sur la table du salon lorsque son téléphone vibra. 
 Le message venait de Lyubov.
 « Merci encore pour ce déjeuner. »
-Jacques relut la phrase. Il ne répondit pas. Elle revenait à lui, et cela suffisait.
 
  
 
