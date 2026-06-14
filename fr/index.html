@@ -65,7 +65,7 @@ Chapitre 24 La profanation **	123
 Chapitre 25 Vous vous trompez de misère **	131
 Chapitre 26 Les exceptions **	139
 Chapitre 27 Lyubov, Bloomberg **	143
-Chapitre 28 Le matin des marchés	149
+Chapitre 28 Humanize This	149
 Chapitre 29 Le test	153
 Chapitre 30 Le périmètre	161
 Chapitre 31 La première échographie	167
@@ -2366,34 +2366,33 @@ Le message venait de Lyubov.
  
 
 Chapitre 28
-Le matin des marchés
+Humanize This
 
 Un an avait passé.
-Lyubov et Jacques habitaient désormais ensemble, dans un appartement au premier étage d’une rue bruyante de Hammersmith, assez vaste pour que chacun y conservât un peu de sa solitude, assez étroit pourtant pour que les habitudes finissent par appartenir à l’autre. Jacques s’y était installé d’abord avec réserve. Puis il avait regoûté à cette joie qu’on éprouve lorsqu’un désordre domestique, une brosse à cheveux laissée sur une console, suffisent à corriger l’abstraction des jours.
-Lyubov se levait toujours plus tôt que lui.
-Ce matin-là, Jacques ouvrit les yeux dans la pénombre grise qui précède l’aube londonienne. Il entendit, avant de la voir, le bruit discret de la machine à café dans la cuisine. Il tourna la tête. La place à côté de lui était déjà vide. Sous la porte, une bande de lumière pâle traversait le parquet.
-Il resta quelques secondes immobile, encore retenu par le sommeil, puis se leva. L’air de l’appartement gardait la fraîcheur de la nuit. Dans la cuisine, Lyubov se tenait devant le plan de travail, déjà habillée, une chemise blanche boutonnée jusqu’au col et un pantalon sombre. Ses cheveux étaient relevés à la hâte. Elle tenait son téléphone d’une main et lisait sur l’écran de son ordinateur portable ouvert devant elle. Plus loin dans la pièce, sur son bureau, deux grands écrans Bloomberg diffusaient une mosaïque de titres, de chiffres et de courts paragraphes qui se remplaçaient sans cesse.
-Elle leva les yeux.
+Lyubov et Jacques habitaient désormais ensemble à Fulham Palace Road, rue bruyante de Hammersmith bordée de petits immeubles victoriens en brique rouge. L’appartement se trouvait au premier étage, au-dessus d’une petite épicerie chinoise. Il était assez vaste pour que chacun y conservât un peu de sa solitude, assez étroit pourtant pour que les habitudes finissent par appartenir à l’autre. Jacques s’y était installé d’abord avec réserve. Puis il avait regoûté à cette joie qu’on éprouve d’échanger quelques mots avant de s’endormir. Le désordre domestique lui plaisait.
+Lyubov se levait toujours bien plus tôt que lui. 
+Ce matin-là, Jacques ouvrit les yeux dans la pénombre. Il entendit le bruit de la machine à café dans la cuisine, étouffé par les épaisses portes de bois. Il tourna la tête. La place à côté de lui était déjà vide. Sous la porte, une bande de lumière pâle s’étalait sur le parquet.
+Il resta quelques secondes immobile, encore retenu par le sommeil, puis se leva. L’air de l’appartement gardait la fraîcheur de la nuit. Dans la cuisine, Lyubov se tenait devant le plan de travail, déjà habillée d’une chemise blanche boutonnée jusqu’au col et d’un pantalon sombre. Ses cheveux étaient relevés à la hâte. Elle tenait son téléphone d’une main et lisait sur l’écran de l’ordinateur portable ouvert devant elle. Plus loin dans la pièce, sur son bureau, deux grands écrans Bloomberg diffusaient une mosaïque colorée de titres, de chiffres et de courts paragraphes qui glissaient sans cesse. On aurait dit un jeu vidéo des années quatre-vingt, en beaucoup plus ennuyeux. 
+Elle leva vers lui ses yeux déjà cernés.
 « Je t’ai réveillé ? »
 Il fit non de la tête.
 « Il est quelle heure ? »
-« Cinq heures vingt. »
-Elle lui versa du café. Il s’assit en face d’elle, encore lourd de sommeil. Par la fenêtre, on ne distinguait rien qu’un ciel bas, la lueur d’un réverbère et les grilles noires de la garderie d’enfants en face. À cette heure, le jardin était vide. Plus tard, dans la matinée, ils regardaient parfois les enfants y courir quelques minutes avant de quitter l’appartement.
-Avant de vivre avec elle, Jacques s’était figuré le métier de Lyubov sous une forme assez simple. Une suite d’appels, de messages, de papiers courts écrits sur le gaz liquéfié, une raffinerie à l’arrêt, un différentiel qui s’écarte. Cela appartenait au vieux journalisme financier, à sa dépendance envers les voix.
-Ce temps s’était retiré.
-À présent, avant même que la ville ne fût éveillée, des systèmes lui proposaient déjà le premier état du monde. Les conférences d’analystes étaient transcrites dans la nuit. Les communiqués résumés en quelques lignes. Les mouvements de prix anormaux signalés. Les courtiers, les raffineurs, les négociants, tout ce petit peuple bavard et prudent dont elle avait autrefois arraché mot à mot la matière de ses papiers, voyaient désormais leurs déclarations publiques aspirées et classées, puis servies à nouveau sous une forme propre, stable, prête à imprimer.
-Lyubov fit glisser deux fenêtres sur son écran. Jacques reconnut une série de phrases sur le marché du gasoil, formulées dans cette langue désormais universelle, souple et exacte en apparence, qui ne heurtait rien, n’exagérait rien, mais ne trahissait rien non plus de vivant.
+« Sept heures vingt. »
+Elle lui versa du café. Il s’assit en face d’elle, les paupières lourdes de sommeil. Par la fenêtre, le flot de voitures, de bus et de camions entamait son interminable procession. La chambre donnait, elle, sur un petit parc dont une section était réservée à une crèche. À cette heure, le jardin était vide. Plus tard, dans la matinée, ils regardaient parfois les enfants jouer sous l’œil vigilant du personnel. Ils trottinaient d’un pas mal assuré, tombaient, puis se relevaient.
+Avant de vivre avec elle, Jacques s’était figuré le métier de Lyubov sous une forme assez simple. Il s’imaginait de nombreux appels téléphoniques et des réunions éditoriales suivies d’articles brefs écrits sur le gaz liquéfié, les raffineries, les gazoducs et les différentiels de prix. En réalité, tout cela appartenait au vieux journalisme financier.
+Ce temps-là s’était retiré.
+À présent, avant même que la ville ne fût éveillée, des systèmes lui proposaient déjà le premier état du monde. Les conférences d’analystes avaient été transcrites dans la nuit. Les communiqués étaient déjà résumés. Les mouvements de prix anormaux étaient signalés. Les courtiers, les raffineurs, les négociants dont elle avait autrefois tiré la matière de ses papiers voyaient leurs déclarations publiques aspirées, classées, puis servies à nouveau sous une forme stable et prête à imprimer.
+Lyubov fit glisser deux fenêtres sur son écran. Jacques reconnut une série de phrases sur le marché du gasoil, formulées dans cette langue souple et exacte en apparence, qui ne heurtait rien et n’exagérait rien.
 Elle lut à voix basse.
 « European middle distillates strengthened in early trade amid tighter near-term supply expectations... »
 Elle s’interrompit, but une gorgée de café, puis dit avec une légère moue :
 « C’est faux. »
 Jacques regarda l’écran.
 « Faux ? »
-« Enfin pas complètement. »
+« Enfin, en partie. »
 Elle posa la tasse. Son index tapota deux fois sur le bord de la table.
-« Ça répète ce qui circule déjà. Ça assemble des formulations qui tiennent debout. Mais ça ne dit pas ce qu’il faut regarder. »
-Elle supprima trois lignes d’un geste rapide. Puis elle saisit son téléphone, ouvrit une conversation, puis une autre. Enfin, elle appela quelqu’un.
-Jacques n’entendit d’abord qu’une voix rauque. Lyubov parla sans préambule.
+« La dépêche répète ce qui circule déjà. La formulation tient debout. Mais elle ne dit pas où regarder. »
+Elle édita quelques lignes. Puis elle saisit son téléphone, ouvrit une conversation et appela quelqu’un. Jacques n’entendit d’abord qu’une voix rauque. Lyubov parla sans préambule.
 « I saw the move. I’m not asking for a comment. I want to know if this is physical or if people are just leaning on the same story. »
 Elle écouta. Son visage changea à peine. Une main ramena derrière son oreille une mèche qui s’en échappait.
 « No, I know what the screen says. I’m asking what is actually happening. »
@@ -2401,33 +2400,30 @@ Nouveau silence.
 « Fine. Off the record. Then tell me where to look. »
 Elle prit un stylo et écrivit deux mots sur le revers d’une enveloppe ouverte qui traînait près d’elle. Jacques se pencha sans pouvoir lire. Elle raccrocha, puis nota encore quelque chose.
 « Tu dois écrire tout de suite ? » demanda-t-il.
-« Oui. Maintenant, avant que la phrase morte ne gagne. »
+« Oui. Maintenant. »
 Elle se remit au clavier. Cette fois, il la regarda vraiment travailler.
-Ce n’était pas la vitesse qui frappait. C’était la manière dont elle retirait. Elle enlevait les mots que les machines aimaient, les enchaînements satisfaisants et les symétries inutiles. Elle gardait un verbe plus simple, un substantif plus dur, une réserve là où une intelligence artificielle aurait fourni une explication. En quelques minutes, le paragraphe prit une forme plus nue.
-Le marché n’avait plus l’air de parler tout seul. Quelqu’un, à l’intérieur, regardait.
+Elle commença à élaguer. Elle enlevait les mots que les machines affectionnaient, les enchaînements élégants et les symétries inutiles. Elle gardait un verbe plus simple, un substantif plus dur. En quelques minutes, le paragraphe prit une forme plus nue.
 Elle écrivit encore, s’arrêta, relut à voix basse, puis appela une seconde personne, cette fois sur haut-parleur pendant qu’elle vérifiait une donnée.
 « Morning. One question. Is this linked to the outage, or are people just using the outage to push their agenda? »
 La réponse fut plus courte. Elle remercia, raccrocha, modifia une ligne, puis envoya le papier.
 L’écran afficha presque aussitôt une demande de version plus longue pour le site, avec contexte historique et scénarios de prix.
-« Avant, on me demandait d’obtenir une information. Maintenant, on me demande aussi de battre la machine. »
+« Avant, on me demandait surtout d’obtenir une information. Aujourd’hui, on me demande aussi d’arriver avant la machine, ou de passer derrière elle. »
 Jacques sourit.
 « Et tu y arrives. »
-« Ce n’est pas cela. J’y arrive encore. Mais ce n’est plus le même métier. »
+« J’y arrive encore. Mais ce n’est plus le même métier. »
 Elle se leva, alla jusqu’à la fenêtre et l’ouvrit légèrement. Un air froid entra dans la cuisine.
-« Avant, quand j’appelais dix personnes pour écrire cent vingt mots, je savais très bien pourquoi j’étais utile. C’était médiocre, parfois. Répétitif. Mais il fallait aller chercher quelque chose. Maintenant tout arrive avant moi. Les transcriptions, les chiffres, les résumés, les réactions. Tout cela est déjà là quand je me réveille. »
+« Quand j’appelais dix personnes pour écrire cent vingt mots, je savais pourquoi j’étais utile. C’était médiocre, parfois. Répétitif. Mais il fallait aller chercher quelque chose. Maintenant, tout cela est déjà là quand je me réveille. Les transcriptions, les chiffres, les résumés, les réactions. »
 Elle se tut un instant.
-« Mon travail n’est plus d’obtenir. C’est d’empêcher que le faux prenne la forme du vrai. »
+« Mon travail n’est plus d’obtenir l’information. C’est d’empêcher que le faux prenne la forme du vrai. »
 « C’est plus difficile ? » demanda Jacques.
 Elle haussa les épaules.
-« Je ne sais pas. C’est moins visible. Avant, on voyait l’effort. Maintenant, si je fais bien mon travail, on a surtout l’impression qu’il n’y avait rien à corriger. »
+« Je ne sais pas. C’est moins visible. Si je fais bien mon travail, on a surtout l’impression qu’il n’y avait rien à corriger. »
 Il la rejoignit près de la fenêtre. Dans la vitre, il aperçut leur reflet superposé à la rue encore vide. Il la prit contre lui.
 « Et pourtant tu continues à te lever à l’aube », dit-il.
 Cette fois elle sourit franchement.
 « Oui. »
-Sur le plan de travail, son téléphone vibra de nouveau. Son éditeur new-yorkais lui transférait une note générée pendant la nuit avec cette mention : can you humanize this?
-Elle regarda l’écran, puis le retourna face contre la table.
-Jacques l’aimait davantage depuis qu’il l’avait vue travailler ainsi. Non parce qu’elle était brillante, ni parce qu’elle résistait mieux qu’une autre à une époque nouvelle. Mais parce qu’elle avait conservé, au milieu de tout cela, le désir d’aller vérifier.
-
+Sur le plan de travail, son téléphone vibra de nouveau. Son rédacteur à New York lui transférait une note générée pendant la nuit avec cette mention : can you humanize this?
+Jacques se sentit inutile au milieu de la cuisine avec sa tasse de café. Il la reposa, se pencha derrière Lyubov et déposa furtivement un baiser sur son cou.
 
  
 
@@ -3735,19 +3731,19 @@ Vivian leva les yeux.
 « Essaie de ne pas avoir l’air d’avoir été kidnappé par une banque. »
 « Je fais ce que je peux. »
 L’ascenseur monta sans bruit. Au quatrième étage, Maya Thorne les accueillit elle-même. Elle portait un ensemble gris clair. À son cou d’une blancheur laiteuse brillait un immense bijou en or. Derrière elle se tenaient deux hommes et une femme.
-Le premier, Simon Vale, associé principal, avait des cheveux poivre et sel coupés court. Le second, Nikhil Rao, était plus jeune. Il dirigeait les investissements en intelligence appliquée. La femme s’appelait Eleanor Marsh. Elle était la responsable juridique du fonds.
+Le premier, Julian Mercer, associé principal, avait des cheveux poivre et sel coupés court. Le second, Nikhil Rao, était plus jeune. Il dirigeait les investissements en intelligence appliquée. La femme s’appelait Rebecca Thornton. Elle était la responsable juridique du fonds.
 On les fit entrer dans une immense salle de réunion à la moquette épaisse. Au centre de la table étaient disposés des carafes d’eau, des carnets noirs et des stylos alignés.
 Maya commença.
 « Merci d’être venus. Nous avons beaucoup parlé de Sentiens depuis votre démonstration. »
 Elle marqua une pause.
 Vivian inclina légèrement la tête.
 « Nous sommes heureux que la conversation continue. »
-Simon Vale prit la parole. Sa voix était douce, posée.
+Julian Mercer prit la parole. Sa voix était douce, posée.
 « Votre technologie arrive à un moment particulier. Les entreprises ont automatisé les processus. Elles automatisent désormais les décisions. Pourtant, elles restent très démunies lorsqu’il s’agit de comprendre l’état humain dans lequel ces décisions sont reçues, portées ou refusées. »
 Il regarda Jacques.
 « Elles voient les résultats souvent trop tard. Elles voient l’attrition. Elles voient les conflits lorsqu’ils sont déjà déclarés. Votre outil promet autre chose. »
 « Il ne promet pas de comprendre les gens », dit Jacques.
-Simon sourit.
+Julian sourit.
 « Non. Bien sûr. Il promet seulement de reconnaître plus tôt certains signaux. »
 Maya intervint.
 « Ce qui nous intéresse, ce n’est pas seulement la détection émotionnelle. Beaucoup d’acteurs prétendent déjà en faire. Ce qui nous intéresse, c’est votre origine produit. Sentiens ne vient pas de la surveillance. Il vient du soin. »
@@ -3771,31 +3767,31 @@ Personne ne l’interrompit.
 « Puis l’outil s’est amélioré. Il a reconnu des choses. Parfois avant nous. C’était utile. Réellement utile. Mais plus il reconnaissait, plus il me rappelait qu’il ne comprenait rien. »
 Maya l’écoutait avec une intensité bienveillante.
 « Je veux que Sentiens garde cette limite. »
-Eleanor Marsh demanda :
+Rebecca Thornton demanda :
 « Et si vos clients veulent précisément cela ? »
 Jacques soutint son regard.
 « Alors il faudra refuser certains clients. »
-Vivian baissa les yeux vers son carnet. Le mouvement fut infime. Jacques le vit. Simon aussi, peut-être.
+Vivian baissa les yeux vers son carnet. Le mouvement fut infime. Jacques le vit. Julian aussi, peut-être.
 Nikhil Rao prit la parole.
 « C’est une position respectable. Mais une entreprise financée doit croître. La vraie question est donc : pouvez-vous croître tout en refusant les usages les plus évidents de votre propre technologie ? »
 Vivian reprit.
 « C’est justement pour cela que nous avons besoin d’un partenaire. Il nous faut une gouvernance. »
-Simon Vale sourit.
+Julian Mercer sourit.
 Maya ouvrit alors un dossier devant elle. La pièce changea aussitôt de densité. Jusque-là, ils avaient parlé d’usage et de vision. À présent, l’argent entrait.
 « Voici notre proposition », dit-elle. « Kestrel est prêt à mener un tour d’amorçage de quatre millions de livres. »
 Jacques ne bougea pas.
 Le chiffre ne provoqua aucun bruit dans la salle.
-Eleanor Marsh ajouta :
+Rebecca Thornton ajouta :
 « Pour dix-huit pour cent du capital fully diluted. Cela place Sentiens à un peu plus de vingt-deux millions post-money. »
 Jacques recomposa le calcul malgré lui. Dix-huit millions avant l’argent. Vingt-deux après. Sa part, la part d’Adrian, celle de Vivian, la réserve d’options, les futurs tours, tout se mit à se déplacer dans son esprit. Les chiffres distribuaient déjà l’avenir.
 Vivian demanda :
 « Quelle préférence ? »
 Sa voix n’avait pas changé. Jacques l’admira pour cela.
-Eleanor répondit sans consulter ses notes.
+Rebecca répondit sans consulter ses notes.
 « Une préférence de liquidation 1x non participative. Droits d’information standards. Droits d’information standards. Siège d’observateur au board. Droit de pro rata sur le prochain tour. Et une réserve d’options portée à dix pour cent avant closing. »
 Adrian leva enfin les yeux.
 « Donc la dilution réelle n’est pas dix-huit pour cent. »
-Simon Vale eut un sourire doux.
+Julian Mercer eut un sourire doux.
 « La dilution réelle ne l’est jamais. »
 On ne perdait jamais tout d’un coup. Une part de soi cédait d’abord un peu de place, puis une autre. Un jour, on ne retrouvait plus la forme initiale.
 Maya poursuivit.
@@ -3806,19 +3802,19 @@ Vivian demanda :
 Maya reprit :
 « Le B2B doit devenir prioritaire. Sentiens doit être une plateforme enterprise. »
 « Naptio ? » demanda Jacques.
-Eleanor répondit :
+Rebecca répondit :
 « Naptio doit rester séparé, juridiquement, techniquement et commercialement. L’image parentale ne doit pas contaminer Sentiens. »
 Adrian demanda :
 « Vous voulez une nouvelle entité ? »
-« Oui », dit Eleanor. « Nous voulons une séparation stricte des actifs, des marques et des bases de données. Sentiens doit pouvoir se présenter sans ambiguïté devant un comité d’achat enterprise. »
-Simon ajouta :
+« Oui », dit Rebecca. « Nous voulons une séparation stricte des actifs, des marques et des bases de données. Sentiens doit pouvoir se présenter sans ambiguïté devant un comité d’achat enterprise. »
+Julian ajouta :
 « Il faut que les clients comprennent immédiatement qu’ils n’achètent pas un baby monitor amélioré. Ils achètent une infrastructure d’intelligence comportementale. »
 Jacques tourna lentement la tête vers lui.
 « Ce n’est pas ainsi que je décrirais ce que nous faisons. »
-Simon ne se troubla pas.
+Julian ne se troubla pas.
 Cette fois, Vivian intervint.
 « Nous ne vendrons pas un outil de surveillance comportementale. »
-« Je ne parle pas de surveillance », répondit Simon. « Je parle de lecture organisationnelle. Les entreprises sont aveugles à une partie de leur propre réalité. Vous proposez de leur rendre la vue. »
+« Je ne parle pas de surveillance », répondit Julian. « Je parle de lecture organisationnelle. Les entreprises sont aveugles à une partie de leur propre réalité. Vous proposez de leur rendre la vue. »
 La discussion continua. Ils parlèrent de gouvernance, d’un comité éthique externe et d’un ancien régulateur qui pourrait les accompagner. Chaque garantie semblait raisonnable. La violence ne se présentait jamais nue. Elle arrivait habillée d’exceptions, de garde-fous, de clauses et de bonnes intentions.
 Vivian négociait avec calme. Elle demanda un ajustement sur la réserve d’options. Elle refusa un droit de veto trop large sur les pivots produits. Elle obtint que le siège d’observateur n’ait pas accès aux données brutes des pilotes.
 Jacques parla peu. Il écoutait l’accord prendre forme autour de lui.
@@ -3833,11 +3829,11 @@ Vivian resta immobile.
 Jacques continua.
 « Le danger est que la machine voie assez juste pour que les gens acceptent d’oublier tout ce qu’elle ne voit pas. »
 Maya ne répondit pas aussitôt. Pour la première fois depuis le début de la réunion, elle parut moins investisseuse que lectrice attentive d’une phrase dont elle ne savait pas encore quoi faire.
-Simon Vale rompit le silence.
+Julian Mercer rompit le silence.
 « C’est précisément pourquoi il faut construire ce produit avec des gens qui pensent ainsi. »
 À la fin, Maya referma son dossier.
 « Nous ne demandons pas de réponse aujourd’hui. »
-Ils se levèrent. Les mains se serrèrent. Eleanor promit d’envoyer une term sheet lundi. Maya les accompagna jusqu’à l’ascenseur.
+Ils se levèrent. Les mains se serrèrent. Rebecca promit d’envoyer une term sheet lundi. Maya les accompagna jusqu’à l’ascenseur.
 « Prenez le temps d’en parler entre vous », dit-elle.
 Dans l’ascenseur, personne ne dit rien. Vivian regardait les chiffres qui descendaient au-dessus de la porte. Adrian avait les yeux fermés. Jacques distinguait son reflet dans la paroi métallique.
 Vivian inspira profondément.
@@ -3912,7 +3908,7 @@ Dans la chambre, Thomas remua. Un petit cri monta, bref, encore pris dans le som
 Ils écoutèrent. Le silence revint. Puis une respiration régulière traversa faiblement la porte.
 Jacques demeura debout. Son téléphone vibra sur la table basse. L’écran s’alluma.
 Vivian.
-Eleanor enverra la term sheet lundi. Maya veut une réponse de principe avant la fin de semaine. Il faut avancer.
+Rebecca enverra la term sheet lundi. Maya veut une réponse de principe avant la fin de semaine. Il faut avancer.
 Lyubov vit la lumière du message sur son visage. Elle ne demanda pas à lire.
 Jacques prit le téléphone, puis regarda la porte de la chambre. La veilleuse dessinait sur le parquet une bande pâle. Au-delà, Thomas dormait, les poings fermés, libre encore de ne rien savoir de ce qui venait vers lui.
 Le téléphone vibra une deuxième fois dans sa main.
@@ -3945,7 +3941,7 @@ Puis Vivian avait disparu des interviews.
 Pendant quelques jours, son nom avait circulé avec celui de Jacques. Puis Sentiens avait confié la communication à une société de relations publiques, qui avait repris en main les communiqués et les demandes d’entretien. Vivian n’avait publié qu’un message très court. Elle y écrivait qu’elle avait cru à cet outil, qu’il n’aurait jamais dû acculer un père de famille à mettre fin à ses jours, et que cette technologie était née dans une chambre d’enfant, pour veiller sur une vie fragile.
 Jacques relut cette phrase plusieurs fois.
 Il ne sut pas s’il lui pardonnait. Elle n’avait pas menti depuis le début. Sa faute n’avait pas été de vouloir nuire. Elle avait cru sans limite en une création imparfaite, née de l’homme, entraînée par l’homme, vendue par l’homme, puis livrée à des organisations qui ne savaient plus reconnaître la souffrance sans la transformer en signal.
-Kestrel s’était retiré avec discrétion. La firme avait d’abord recommandé une revue indépendante, puis était sortie du capital. Simon Vale avait appelé Jacques une dernière fois. Sa voix était restée douce. Il avait parlé de responsabilité, de risque politique, de contexte devenu impossible.
+Kestrel s’était retiré avec discrétion. La firme avait d’abord recommandé une revue indépendante, puis était sortie du capital. Julian Mercer avait appelé Jacques une dernière fois. Sa voix était restée douce. Il avait parlé de responsabilité, de risque politique, de contexte devenu impossible.
 « Jacques, nous avons énormément d’admiration pour ce que vous avez fait. Mais la pression médiatique et politique est trop forte. Nous ne pouvons plus vous suivre. »
 Il avait ajouté que certaines technologies avaient raison trop tôt.
 Jacques avait écouté sans répondre.
